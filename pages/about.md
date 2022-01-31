@@ -5,7 +5,7 @@ category: about
 permalink: /about
 ---
 
-![Me](../headshot.jpeg)
+!(https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/assets/img/headshot.jpeg)
 As a researcher, I am most interested in answering cosmological questions
 about the birth of the universe, inflation, dark energy driven expansion, and
 structure formation and evolution. I am also interested in computationally
@@ -15,4 +15,4 @@ reading a book! This website is under construction right now so check back in a 
 
 I graduated from the University of Pittsburgh in 2019. 
 
-![Vic, Emily, Janvi](graduation.JPG)
+![Vic, Emily, Janvi](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/assets/img/graduation.JPG)
