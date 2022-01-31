@@ -3,7 +3,7 @@ layout: post
 title: "About the Author"
 author: "Janvi Madhani"
 categories: about
-tags: [sample]
+tags: [about]
 image: eclipse.JPG
 ---
 
