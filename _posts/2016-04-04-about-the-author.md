@@ -4,7 +4,12 @@ title: "About the Author"
 author: "Paul Le"
 categories: facts
 tags: [sample]
-image: cuba-2.jpg
+image: eclipse.JPG
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+As a researcher, I am most interested in answering cosmological questions
+about the birth of the universe, inflation, dark energy driven expansion, and
+structure formation and evolution. I am also interested in computationally
+modeling cosmological phenomena to help us answer these questions. Outside of science, 
+you can find me baking, painting, playing an instrument, out in nature, doing yoga, or 
+reading a book! 
