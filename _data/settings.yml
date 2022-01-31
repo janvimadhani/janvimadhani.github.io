@@ -9,10 +9,10 @@ google-ID: 'UA-173562441-1'
 menu:
 - {name: 'About', url: 'about'}
 - {name: 'Projects',  url: 'projects'}
-#- {name: 'Sample Posts',       url: 'publications'}
 - {name: 'Publications',      url: 'publications'}
 - {name: 'Outreach', url: 'outreach'}
 - {name: 'Contact',            url: 'contact'}
+- {name: 'Fun Things',       url: 'fun'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
