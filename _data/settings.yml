@@ -10,7 +10,7 @@ menu:
 - {name: 'About',              url: 'about'}
 - {name: 'Projects',  url: 'projects'}
 #- {name: 'Sample Posts',       url: 'publications'}
-- {name: 'Publications',      url: 'documentation'}
+- {name: 'Publications',      url: 'publications'}
 - {name: 'Outreach', url: 'outreach'}
 - {name: 'Contact',            url: 'contact'}
 
