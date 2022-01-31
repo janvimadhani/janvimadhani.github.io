@@ -5,6 +5,7 @@ category: about
 permalink: /about
 ---
 
+![Me](headshot.jpeg)
 As a researcher, I am most interested in answering cosmological questions
 about the birth of the universe, inflation, dark energy driven expansion, and
 structure formation and evolution. I am also interested in computationally
