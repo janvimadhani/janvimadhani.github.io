@@ -4,4 +4,6 @@ title: Contact
 permalink: /contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+# Schedule a Time to Meet With Me:
+Send me an [email](mailto:jmadhan1@jhu.edu) to schedule a meeting. 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23B39DDB&ctz=America%2FNew_York&showPrint=1&src=amFudmltYWRoYW5pQGdtYWlsLmNvbQ&src=bnl0aW1lcy5jb21fODlhaTRpanBiNzMzZ3QyOHJnMjFkMmMyZWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=djFlMzY4NmQwY3FsY3ExNG1jMzRtaGM4bWxocWdmNXRAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23cb972d&color=%23E4C441&color=%233F51B5" style="border-width:0" width="800" height="600" frameborder="0" scrolling="yes"></iframe>
