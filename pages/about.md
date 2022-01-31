@@ -5,8 +5,7 @@ category: about
 permalink: /about
 ---
 
-#![](./assets/img/headshot.jpeg)
-<img src="./assets/img/headshot.jpeg" alt="headshot" width="200"/>
+<img src="./assets/img/headshot.jpeg" alt="headshot" width="400"/>
 As a researcher, I am most interested in answering cosmological questions
 about the birth of the universe, inflation, dark energy driven expansion, and
 structure formation and evolution. I am also interested in computationally
@@ -16,5 +15,4 @@ reading a book! This website is under construction right now so check back in a 
 
 I graduated from the University of Pittsburgh in 2019. 
 
-<img src="./assets/img/graduation.JPG" alt="graduation" width="200"/>
-#![Vic, Emily, Janvi](./assets/img/graduation.JPG)
+<img src="./assets/img/graduation.JPG" alt="graduation" width="400"/>
