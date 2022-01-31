@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Janvi Madhani"
 categories: facts
 tags: [sample]
 image: eclipse.JPG
