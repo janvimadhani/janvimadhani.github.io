@@ -16,4 +16,4 @@ I work with Co-Investigators Dr. Charlotte Welker and Dr. Susan Kassin and under
 
 
 ![A movie of the formation of the large scale structure, the cosmic web, as gas cools and collapses into filaments over cosmic time](./assets/img/cosmicweb.gif)
-*A movie of the formation of the large scale structure, the cosmic web, as gas cools and collapses into filaments over cosmic time*
+*A movie of the formation of the large scale structure, the cosmic web, as gas cools and collapses into filaments over cosmic time in New Horizon*
