@@ -21,7 +21,7 @@ Talk about AO here.
 
 
 <img src="./assets/img/graduation.JPG" alt="graduation" width="400"/>
-I graduated from the University of Pittsburgh in 2019. WRITE MORE ABOUT UNDERGRAD HERE
+In the spring of 2019, I graduated from the University of Pittsburgh with a Bachelor's degree in Physics and Astronomy, alongside my two brilliant friends pictured above (Left to right: Vic, Em, Janvi). 
 
 
 
