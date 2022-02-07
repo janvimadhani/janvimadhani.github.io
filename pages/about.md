@@ -5,7 +5,7 @@ category: about
 permalink: /about
 ---
 
-<img src="./assets/img/headshot.jpeg" alt="headshot" width="400"style="padding: 10px;" align="right"/>
+<img src="./assets/img/headshot.jpeg" alt="headshot" width="400" style="padding: 10px;" align="right"/>
 As a researcher, I am most interested in answering cosmological questions
 about the birth of the universe, inflation, dark energy driven expansion, and
 structure formation and evolution. I am also interested in computationally
