@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Janvi Madhani's Astronomy Webpage"
-description:	       "a personal website to chronicle my journey to becoming an Astrophysicist"
+description:	       "a personal website to chronicle my journey in science"
 author:              "Janvi Madhani"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
