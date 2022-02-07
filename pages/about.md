@@ -12,8 +12,8 @@ structure formation and evolution. I am also interested in computationally
 modeling cosmological phenomena to help us answer these questions. You can find a link to my CV, [here](./Janvi_Curriculum_Vitae.pdf). Outside of science, 
 you can find me baking, painting, playing an instrument, out in nature, doing yoga, or 
 reading a book! 
-##
-##
+<br/><br/>
+<br/><br/>
 ## My Journey in Science
 
 
