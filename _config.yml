@@ -10,7 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Janvi Madhani"
+title:		           "Janvi Madhani's Astronomy Webpage"
 description:	       "a personal website to chronicle my journey in science"
 author:              "Janvi Madhani"
 
