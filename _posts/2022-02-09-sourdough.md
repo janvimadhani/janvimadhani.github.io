@@ -39,7 +39,7 @@ Before I explain the steps of making dough, here is the schedule I follow which 
       300 g bread flour (BF) (you can play with the ratios here! use atleast 150 g BF, and with the remaining 150 g, you can use a combination of AP, WW, Rye, or         whatever!)  
       240 g water 
        
-1 pm: **Mix dough** 
+1 pm: **Mix dough**  
       Mix autolysed dough with levain
       
 1:30 pm: **Mix in salt**  
@@ -52,7 +52,9 @@ Before I explain the steps of making dough, here is the schedule I follow which 
 8:30 pm: **Bench rest**  
       Shape the dough and place on countertop, seam side down, covered with an inverted bowl and let rest
          
-9:30 pm: Final shape and place in floured banneton, seam side up, put entire thing in a sealable bag and let rest in fridge overnight for a cold proof
+9:30 pm: **Final shape**  
+      Shape one final time into a tight boule and place in floured banneton, seam side up.  
+      Place the entire thing in a sealable bag and let rest in fridge overnight for a ~12 H cold proof.
 
 #### Day 2
 
