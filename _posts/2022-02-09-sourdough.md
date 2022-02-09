@@ -32,7 +32,7 @@ The tools you will need besides a kitchen scale are a banneton (a bread basket t
 Before I explain the steps of making dough, here is the schedule I follow which works for me and my kitchen environment. It might take some trial and error until you find what works for you, so don't get discouraged if your first loaf comes out looking like a pancake! Mine certainly did for the first 6 months. 
 
 #### Day 1 
-8 am: **Make 60 g levain at 1:2:2**
+8 am: **Make 60 g levain at 1:2:2**  
       12 g starter + 12 g AP + 12 g WW + 24 g water
       
 10 am: **Mix dough for autolyse**  
