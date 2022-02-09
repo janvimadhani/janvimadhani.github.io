@@ -27,7 +27,7 @@ Meet Doughelena, my starter, lovingly named after Helena, my best friend who got
 INSERT PICTURE OF DOUGHELENA
 
 ### Baking Schedule 
-The tools you will need besides a kitchen scale are a banneton (a bread basket to shape the dough in), a thin piece of cloth (like a cheesecloth) to line the banneton with to prevent the dough from sticking to the basket, a sharp blade like a razor blade, and a dutch oven. Do not feel like you need to go out and buy all of these things, you can likely find replacements from what you already have! A bit of googling will help you find alternatives to baking with a dutch oven.  
+The tools you will need besides a kitchen scale are a banneton (a bread basket to shape the dough in), a thin piece of cloth (like a cheesecloth) to line the banneton with to prevent the dough from sticking to the basket, a sharp blade like a razor blade, and a dutch oven. Do not feel like you need to go out and buy all of these things, you can likely find replacements from what you already have! And, a bit of googling will also help you find alternatives to baking with a dutch oven.  
 
 Before I explain the steps of making dough, here is the schedule I follow which works for me and my kitchen environment. It might take some trial and error until you find what works for you, so don't get discouraged if your first loaf comes out looking like a pancake! Mine certainly did for the first 6 months. 
 
