@@ -53,8 +53,8 @@ Before I explain the steps of making dough, here is the schedule I follow which 
       Shape the dough and place on countertop, seam side down, covered with an inverted bowl and let rest
          
 9:30 pm: **Final shape**  
-      Shape one final time into a tight boule and place in floured banneton, seam side up.  
-      Place the entire thing in a sealable bag and let rest in fridge overnight for a ~12 H cold proof.
+      Shape one final time into a tight boule and place in floured banneton, seam side up  
+      Place the entire thing in a sealable bag and let rest in fridge overnight for a ~12 H cold proof
 
 #### Day 2
 
