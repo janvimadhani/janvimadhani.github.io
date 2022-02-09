@@ -33,12 +33,15 @@ Before I explain the steps of making dough, here is the schedule I follow which 
 #### Day 1 
 8 am: Make 60 g levain at 1:2:2
       12 g starter + 12 g AP + 12 g WW + 24 g water
+      
 10 am: Mix dough for autolyse
        300 g bread flour (BF) (you can play with the ratios here! use atleast 150 g BF, and with the remaining 150 g, you can use a combination of AP, WW, Rye, or
        whatever!) 
        240 g water 
+       
 1 pm: Mix dough
       Mix autolysed dough with levain
+      
 1:30 pm: Mix in salt
          Mix in 6 g of salt 
          
@@ -48,23 +51,39 @@ Before I explain the steps of making dough, here is the schedule I follow which 
                     
 8:30 pm: Bench rest
          Shape the dough and place on countertop, seam side down, covered with an inverted bowl and let rest
+         
 9:30 pm: Final shape and place in floured banneton, seam side up, put entire thing in a sealable bag and let rest in fridge overnight for a cold proof
 
 #### Day 2
 
 8 am: Pre-heat your oven at 500F with the dutch oven and lid inside
+
 8:55 am: Take out your proofed bread, invert onto parchment paper, lightly dust with flour and score with a sharp razor
+
 9 am: Place scored bread into hot dutch oven, bake at 500F for 20 min with lid on
       Place a cookie tray on the rack under the dutch oven so that the bottom of your bread doesn't brown too much from direct exposure to heat
+      
 9:20 am: Reduce the temperature of the oven to 450F and bake uncovered for 15 min to develop color of bread
+
 9:35 am: Take out bread and let cool before slicing! 
 
 
 ## Let's break it down!
+
+### Levain
+
+### Autolyse
+
+### Mixing the Dough
+
 ### Bulk Fermentation
+This is the process which will develop the flavor and gas bubbles needed for the perfect tangy and airy crumb. 
+
+### Shaping
+
+### Scoring
 
 
-
-
+Happy baking!!! This was A LOT and I would be so happy to talk to you about your baking challenges if you find yourself confused. Feel free to email me -- I love talking about bread :)
                     
 
