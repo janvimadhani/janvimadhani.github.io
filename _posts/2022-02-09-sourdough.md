@@ -90,7 +90,8 @@ Before I explain the steps of making dough, here is the schedule I follow which 
 
 ## Let's break it down!
 
-### Levain
+### Levain  
+Levain is "young starter". It is prepared some hours before you start the bulk fermentation process of your dough. It is a mixture of ripe starter and fresh water and flour. It is fermented for 4-5 hours, depending on your recipe, before it is mixed in with autolysed dough. There are a few reasons for using levain rather than ripe starter in your recipe. Personally, the most important reason for me is the delicate flavor you get from levain that tends towards a sweeter bread. You can control the pH profile of your levain, and thus the final taste profile, by changing the composition of the fresh flour you add. For example, using only AP will tend to a less sour taste than using just WW. After 4-5 hours of fermentation, your levain should be able to float if you drop a spoonful in water. This means it has built enough gas to leaven your bread. When you are learning to make levain, you can make two identical levains, for my recipe this means one 60 g levain which you can use to float test and one 60 g levain that will be used for baking. When your test levain floats, you'll know your second levain is ready for the next step. Soon, you will be able to recognize the rise of the levain by eye and know it's ready to be incorporated into your dough without doing a float test and having to make a second levain. 
 
 ### Autolyse
 
