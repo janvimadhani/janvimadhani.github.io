@@ -89,6 +89,6 @@ This is the process which will develop the flavor and gas bubbles needed for the
 ### Scoring
 
 
-Happy baking!!! This was A LOT and I would be so happy to talk to you about your baking challenges if you find yourself confused. Feel free to email me -- I love talking about bread :)
+Happy baking!!! This was A LOT and I would be so happy to talk to you about your baking challenges if you find yourself confused. Feel free to [email me](mailto:jmadhan1@jhu.edu) -- I love talking about bread :)
                     
 
