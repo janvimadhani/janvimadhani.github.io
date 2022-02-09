@@ -16,14 +16,14 @@ A starter is an equal parts mixture of flour and water. As the enzymes in the fl
 The other important microbe in your starter is lactic acid bacteria (LAB). LAB is more plentiful in the starter by up to two orders of magnitude more than yeast. LAB also feed on carbohydrates (sugar) like yeast, but unlike yeast which convert carbs to alcohol, LABs convert carbs to sour lactic acid in *lacto fermentation*. This lactic acid contributes two important things to your final loaf. The first, is the characteristically tangy, sour flavor. The lactic acid lowers the pH of your dough resulting in a slightly acidic taste. Second, lactic acid makes the dough a hostile environment for unwanted pathogens, through the process of lacto fermentation, a process used in fermented foods like sauerkraut that have a naturally higher shelf life. The lower pH inhibits the growth of mold and other "bad" bacteria. It is important to also note that lactic acid breaks down gluten. So, if your starter is *too* acidic (if you smell it, does it smell like acetone??), your dough will not be able to form a strong gluten network, which will cause the carbon dioxide to escape and you will get an extremely sour loaf with bad rise. 
 
 ### How do you make starter?
-Before you commit to baking sourdought, you will need to invest in a good kitchen scale since sourdough (and all reliable baking) relies on weight measurements. 
+Before you commit to baking sourdough, you will need to invest in a good kitchen scale since sourdough (and all reliable baking) relies on weight measurements. 
 
 Now, let's make some starter! The golden ratio for me is 1:2:2. This means 1 part old starter, 2 parts flour (1 part all-purpose (AP), and 1 part whole wheat (WW)). I like to keep my starter small at 50 g so that I do not have to discard too much every day. This means, every 24 hours, I scoop 10 g of old starter into a jar, add 10 g of AP, 10 g of WW, and 20 g of room temperature to slightly warm water. 
 If you are starting from scratch, start with 25 g water and 25 g flour (equal parts of AP and WW) for the first day, then follow the 1:2:2 ratio on the following days. It will take a couple of weeks for your starter to rise and fall predictably, a sign that it is strong enough to leaven bread.
 
 On the day before I want to bake bread, I feed my starter at this ratio every ~12 hours (otherwise I feed once a day around 8 pm), once when I wake up, around 8 am, and once in the evening around 8 pm. My baking schedule the day after starts at 8 am, so this gives my starter 12 hours to grow before I'm ready to start the dough making process. 
 
-Meet Doughelena, my starter, lovingly named after Helena, my best friend who got me started on this journy and gave me a jar of her own starter when I began.
+Meet Doughelena, my starter, lovingly named after Helena, my best friend who got me started on this journey and gave me a jar of her own starter when I began.
 INSERT PICTURE OF DOUGHELENA
 
 ### Baking Schedule 
