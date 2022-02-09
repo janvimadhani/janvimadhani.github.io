@@ -10,15 +10,16 @@ image: loaf.jpg
 
 Nearly a year into the pandemic, I finally caved and started learning to make my own sourdough bread alongside two of my friends, [Helena](https://helenarichie.github.io/) and [Brandon](http://sites.pitt.edu/~blc95). It seemed the perfect activity to bring some sense of routine to my now disorganized days. All I knew before I began was that there was some starter involved in which you ferment wild yeast by feeding it with equal parts fresh water and flour every day. This becomes the leavening agent for bread, imparting a tangy, complex, aromatic flavor to your loaf. What I did not know, was that it was a beautiful science, a fun chemistry experiment I could do daily to make delicious loaves of bread right at home. Over the course of 2021, I fed my starter religiously, made MANY loaves of bread, each one getting closer and closer to my idea of a good loaf of bread. I have finally settled on a recipe and honed my techniques and I'm excited to share this journey with you! 
 
-Skip ahead to the part of your interest! 
+
 # Contents 
-[Starter Science and How to Make](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#lets-start-with-making-the-starter)
-[Baking Schedule](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#baking-schedule)
-[Levain](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#levain)
-[Autolyse](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#autolyse)
-[Mixing the Dough](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#mixing-the-dough)
-[Bulk Fermentation](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#bulk-fermentation)
-[Shaping](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#shaping)
+Skip ahead to the part of your interest!  
+[Starter Science and How to Make](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#lets-start-with-making-the-starter)  
+[Baking Schedule](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#baking-schedule)  
+[Levain](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#levain)  
+[Autolyse](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#autolyse)  
+[Mixing the Dough](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#mixing-the-dough)  
+[Bulk Fermentation](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#bulk-fermentation)  
+[Shaping](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#shaping)  
 [Scoring](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#scoring)
 
 
