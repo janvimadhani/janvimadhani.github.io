@@ -10,6 +10,18 @@ image: loaf.jpg
 
 Nearly a year into the pandemic, I finally caved and started learning to make my own sourdough bread alongside two of my friends, [Helena](https://helenarichie.github.io/) and [Brandon](http://sites.pitt.edu/~blc95). It seemed the perfect activity to bring some sense of routine to my now disorganized days. All I knew before I began was that there was some starter involved in which you ferment wild yeast by feeding it with equal parts fresh water and flour every day. This becomes the leavening agent for bread, imparting a tangy, complex, aromatic flavor to your loaf. What I did not know, was that it was a beautiful science, a fun chemistry experiment I could do daily to make delicious loaves of bread right at home. Over the course of 2021, I fed my starter religiously, made MANY loaves of bread, each one getting closer and closer to my idea of a good loaf of bread. I have finally settled on a recipe and honed my techniques and I'm excited to share this journey with you! 
 
+Skip ahead to the part of your interest! 
+# Contents 
+[Starter Science and How to Make](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#lets-start-with-making-the-starter)
+[Baking Schedule](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#baking-schedule)
+[Levain](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#levain)
+[Autolyse](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#autolyse)
+[Mixing the Dough](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#mixing-the-dough)
+[Bulk Fermentation](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#bulk-fermentation)
+[Shaping](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#shaping)
+[Scoring](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#scoring)
+
+
 ## Let's start with making the starter
 A starter is an equal parts mixture of flour and water. As the enzymes in the flour meet water, the starch molecules convert to sugar, which become food for the different microbes, most importantly food for *yeast* and *lactic acid bacteria*. Yeast converts the carbohydrates (sugar) into carbon dioxide and ethanol in a process called *alcoholic fermentation*. As the yeast feeds on sugar, it multiplies! This causes the starter to get bubbly and rise as gas bubbles form from the production of carbon dioxide. It multiplies faster in warmer environments, but will still grow at a slower pace in colder environments. When you trap these carbon dioxide bubbles in a developed gluten network, aka dough, you will see the dough rise as the gas bubbles expand. When you bake the dough, the high temperature promotes more growth of carbon dioxide, causing the gas bubbles to expand even further until ultimately, the the temperature kills the yeast and you are left with an airy sponge of bread. 
 
