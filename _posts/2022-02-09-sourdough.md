@@ -13,17 +13,17 @@ Nearly a year into the pandemic, I finally caved and started learning to make my
 
 # Contents 
 Skip ahead to the part of your interest!  
-[Starter Science and How to Make](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#lets-start-with-making-the-starter)  
-[Baking Schedule](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#baking-schedule)  
-[Levain](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#levain)  
-[Autolyse](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#autolyse)  
-[Mixing the Dough](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#mixing-the-dough)  
-[Bulk Fermentation](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#bulk-fermentation)  
-[Shaping](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#shaping)  
-[Scoring](https://github.com/janvimadhani/janvimadhani.github.io/blob/gh-pages/_posts/2022-02-09-sourdough.md#scoring)
+[Starter Science and How to Make](#starter)  
+[Baking Schedule](#baking-schedule)  
+[Levain](#levain)  
+[Autolyse](#autolyse)  
+[Mixing the Dough](#mixing-the-dough)  
+[Bulk Fermentation](#bulk-fermentation)  
+[Shaping](#shaping)  
+[Scoring](#scoring)
 
 
-## Let's start with making the starter
+## <a name="starter"></a> Let's start with making the starter
 A starter is an equal parts mixture of flour and water. As the enzymes in the flour meet water, the starch molecules convert to sugar, which become food for the different microbes, most importantly food for *yeast* and *lactic acid bacteria*. Yeast converts the carbohydrates (sugar) into carbon dioxide and ethanol in a process called *alcoholic fermentation*. As the yeast feeds on sugar, it multiplies! This causes the starter to get bubbly and rise as gas bubbles form from the production of carbon dioxide. It multiplies faster in warmer environments, but will still grow at a slower pace in colder environments. When you trap these carbon dioxide bubbles in a developed gluten network, aka dough, you will see the dough rise as the gas bubbles expand. When you bake the dough, the high temperature promotes more growth of carbon dioxide, causing the gas bubbles to expand even further until ultimately, the the temperature kills the yeast and you are left with an airy sponge of bread. 
 
 The other important microbe in your starter is lactic acid bacteria (LAB). LAB is more plentiful in the starter compared to yeast by up to two orders of magnitude. LAB also feed on carbohydrates (sugar) like yeast, but unlike yeast which convert carbs to alcohol, LABs convert carbs to sour lactic acid in *lacto fermentation*. This lactic acid contributes two important things to your final loaf. The first, is the characteristically tangy, sour flavor. The lactic acid lowers the pH of your dough resulting in a slightly acidic taste. Second, lactic acid makes the dough a hostile environment for unwanted pathogens, through the process of lacto fermentation, a process used in fermented foods like sauerkraut that have a naturally higher shelf life. The lower pH inhibits the growth of mold and other "bad" bacteria. It is important to also note that lactic acid breaks down gluten. So, if your starter is *too* acidic (if you smell it, does it smell like acetone??), your dough will not be able to form a strong gluten network, which will cause the carbon dioxide to escape and you will get an extremely sour loaf with bad rise. 
@@ -39,7 +39,7 @@ Normally, I feed my starter once a day around 8 pm. On the day before I want to 
 Meet Doughelena, my starter, lovingly named after Helena, my best friend who got me started on this journey and gave me a jar of her own starter when I began.
 INSERT PICTURE OF DOUGHELENA
 
-### Baking Schedule 
+### <a name="baking-schedule"></a>Baking Schedule 
 The tools you will need besides a kitchen scale are a banneton (a bread basket to shape the dough in), a thin piece of cloth (like a cheesecloth) to line the banneton with to prevent the dough from sticking to the basket, a sharp blade like a razor blade, and a dutch oven. Do not feel like you need to go out and buy all of these things, you can likely find replacements from what you already have! And, a bit of googling will also help you find alternatives to baking with a dutch oven.  
 
 Before I explain the steps of making dough, here is the schedule I follow which works for me and my kitchen environment. It might take some trial and error until you find what works for you, so don't get discouraged if your first loaf comes out looking like a pancake! Mine certainly did for the first 6 months. 
@@ -90,19 +90,19 @@ Before I explain the steps of making dough, here is the schedule I follow which 
 
 ## Let's break it down!
 
-### Levain  
+### <a name="levain"></a>Levain  
 Levain is "young starter". It is prepared some hours before you start the bulk fermentation process of your dough. It is a mixture of ripe starter and fresh water and flour. It is fermented for 4-5 hours, depending on your recipe, before it is mixed in with autolysed dough. There are a few reasons for using levain rather than ripe starter in your recipe. Personally, the most important reason for me is the delicate flavor you get from levain that tends towards a sweeter bread. You can control the pH profile of your levain, and thus the final taste profile, by changing the composition of the fresh flour you add. For example, using only AP will tend to a less sour taste than using just WW. After 4-5 hours of fermentation, your levain should be able to float if you drop a spoonful in water. This means it has built enough gas to leaven your bread. When you are learning to make levain, you can make two identical levains, for my recipe this means one 60 g levain which you can use to float test and one 60 g levain that will be used for baking. When your test levain floats, you'll know your second levain is ready for the next step. Soon, you will be able to recognize the rise of the levain by eye and know it's ready to be incorporated into your dough without doing a float test and having to make a second levain. 
 
-### Autolyse
+### <a name="autolyse"></a>Autolyse
 
-### Mixing the Dough
+### <a name="mixing-the-dough"></a>Mixing the Dough
 
-### Bulk Fermentation
+### <a name="bulk-fermentation"></a>Bulk Fermentation
 This is the process which will develop the flavor and gas bubbles needed for the perfect tangy and airy crumb. 
 
-### Shaping
+### <a name="shaping"></a>Shaping
 
-### Scoring
+### <a name="scoring"></a>Scoring
 
 
 Happy baking!!! This was A LOT and I would be so happy to talk to you about your baking challenges if you find yourself confused. Feel free to [email me](mailto:jmadhan1@jhu.edu) -- I love talking about bread :)
