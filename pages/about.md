@@ -9,7 +9,7 @@ permalink: /about
 Hi, I'm Janvi! I'm a graduate student pursuing a PhD in Astrophysics at Johns Hopkins University in Baltimore, MD. I work with Drs. [Susan Kassin](https://www.susankassin.com/) and Charlotte Welker. You can find details about my current project using cosmological hydrodynamic simulations [here.](https://janvimadhani.github.io/simulation) As a researcher, I am most interested in answering cosmological questions
 about the birth of the universe, inflation, dark energy driven expansion, and
 structure formation and evolution. I am also interested in computationally
-modeling cosmological phenomena to help us answer these questions. You can find a link to my CV, [here](./Janvi_Curriculum_Vitae.pdf) or you can click the little book icon at the top right of the page. Outside of science, 
+modeling cosmological phenomena to help us answer these questions. You can find a link to my CV [here](./Janvi_Curriculum_Vitae.pdf) or you can click the little book icon at the top right of the page. Outside of science, 
 you can find me baking, painting, playing an instrument, out in nature, doing yoga, or 
 reading a book! You can check out some of my recent interests like baking sourdough bread or film photography [here!](https://janvimadhani.github.io/fun)
 <br/><br/>
