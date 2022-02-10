@@ -95,15 +95,14 @@ body {
   <div class="column">
     <img src="./assets/img/rainbow.jpg" style="width:100%">
     <img src="./assets/img/mountains.jpg" style="width:100%">
-    <img src="./assets/img/frick.jpg" style="width:100%">
     <img src="./assets/img/alleghenyspring.jpg" style="width:100%">
+    <img src="./assets/img/foggy.jpg" style="width:100%">
   </div>
   <div class="column">
-    <img src="./assets/img/dahntahn.jpg" style="width:100%">
-    <img src="./assets/img/schenley.jpg" style="width:100%">
-    <img src="./assets/img/alleghenyobs.jpg" style="width:100%">
-    <img src="./assets/img/frick.jpg" style="width:100%">
-    <img src="./assets/img/alleghenyspring.jpg" style="width:100%">
+    <img src="./assets/img/janvi_steps_ao.JPG" style="width:100%">
+    <img src="./assets/img/bananas.jpg" style="width:100%">
+    <img src="./assets/img/friendship.jpg" style="width:100%">
+    <img src="./assets/img/pghsunset.JPG" style="width:100%">
   </div>
 </div>
 
