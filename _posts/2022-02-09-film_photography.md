@@ -7,7 +7,8 @@ tags: [fun]
 image: koppers.jpg
 ---
 
-<!DOCTYPE html>
+Over the past few years, I've been learning more about cameras and lenses both from a curiosity about optics and also as a form of creative expression. What better place to start this journey than an analog film camera! I picked up a few inexpensive film cameras from ebay and have been playing around with different film stocks to find my niche. Currently, I'm really enjoying 35 mm and 120 mm photography and my favorite film stock is Kodak Portra 400, though Fujifilm Superia 400 is a close second. Here is a selection of photographs I took around Pittsburgh, Baltimore, and a few other places over the last few years! 
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -70,7 +71,7 @@ body {
 
 <!-- Header -->
 <div class="header" id="myHeader">
-  <h1>Image Grid</h1>
+  <h1>Film Portfolio</h1>
   <p>Click on the buttons to change the grid view.</p>
   <button class="btn" onclick="one()">1</button>
   <button class="btn active" onclick="two()">2</button>
@@ -84,7 +85,6 @@ body {
     <img src="./assets/img/schenley.jpg" style="width:100%">
     <img src="./assets/img/alleghenyobs.jpg" style="width:100%">
     <img src="./assets/img/frick.jpg" style="width:100%">
-    <img src="./assets/img/alleghenyspring.jpg" style="width:100%">
   </div>
   <div class="column">
     <img src="./assets/img/koppers.jpg" style="width:100%">
@@ -94,7 +94,7 @@ body {
   </div>  
   <div class="column">
     <img src="./assets/img/rainbow.jpg" style="width:100%">
-    <img src="./assets/img/mountain.jpg" style="width:100%">
+    <img src="./assets/img/mountains.jpg" style="width:100%">
     <img src="./assets/img/frick.jpg" style="width:100%">
     <img src="./assets/img/alleghenyspring.jpg" style="width:100%">
   </div>
