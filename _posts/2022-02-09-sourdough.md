@@ -94,16 +94,24 @@ Before I explain the steps of making dough, here is the schedule I follow which 
 Levain is "young starter". It is prepared some hours before you start the bulk fermentation process of your dough. It is a mixture of ripe starter and fresh water and flour. It is fermented for 4-5 hours, depending on your recipe, before it is mixed in with autolysed dough. There are a few reasons for using levain rather than ripe starter in your recipe. Personally, the most important reason for me is the delicate flavor you get from levain that tends towards a sweeter bread. You can control the pH profile of your levain, and thus the final taste profile, by changing the composition of the fresh flour you add. For example, using only AP will tend to a less sour taste than using just WW. After 4-5 hours of fermentation, your levain should be able to float if you drop a spoonful in water. This means it has built enough gas to leaven your bread. When you are learning to make levain, you can make two identical levains, for my recipe this means one 60 g levain which you can use to float test and one 60 g levain that will be used for baking. When your test levain floats, you'll know your second levain is ready for the next step. Soon, you will be able to recognize the rise of the levain by eye and know it's ready to be incorporated into your dough without doing a float test and having to make a second levain. 
 
 ### <a name="autolyse"></a>Autolyse
+Autolyse is the process of combining flour and water until the flour is fully hydrated and just letting it rest for some time. This is not necessary, but you will find that including this step results in a more even crumb. This is because, during this autolyse period, gluten begins forming and strengthening. This results ina more elastic, stretchy, and smooth dough that is easier to build tension in. The more tension you can build, the more gas you can trap within the gluten network, resulting in a fluffy and even crumb. You don't have to use any specific technique for autolysing dough! Just roughly mix it together until there is no dry flour left and let it sit covered for the required autolysis time. 
 
 ### <a name="mixing-the-dough"></a>Mixing the Dough
+From this stage forward, wet your hands before handling the dough to prevent it sticking to your fingers and tearing. I like to pinch the dough after adding the levain to make sure the levain is evenly distributed. This is the last stage of the dough where you can handle it roughly. After the fermentation process begins, you'll want to be careful not to knock out the airy gas bubbles. So don't be afraid to really get in there and mix the dough well. After I'm satisfied with how evenly the levain is incorporated, I'll start building tension by pulling the dough under itself to form a tight boule. Wait 30 min to incorporate the salt, allowing the gluten to relax and strengthen again. Use the same technique -- pinch the salt in and then pull the dough into itself to form a boul. 
+
+Video of pinching. Video of making a boule. 
 
 ### <a name="bulk-fermentation"></a>Bulk Fermentation
-This is the process which will develop the flavor and gas bubbles needed for the perfect tangy and airy crumb. 
+This is the process which will develop the flavor and gas bubbles needed for the perfect tangy and airy crumb. During these ~6-7 hours, you want to handle the dough delicately. Wet your hands and slap and fold the dough every 40-50 mins during bulk fermentation. Slapping it allows the largest bubbles to burst which will even out the crumb. Folding, builds tension in the dough. Incorporate one or two laminations in between the folds. Laminating is not necessary, but I find that this step like slapping, evens out the crumb a lot. I do this earlier in the bulk fermentation process so that I'm not knocking out too much gas. 
+
+Video of slap and fold. Video of lamination. 
 
 ### <a name="shaping"></a>Shaping
 
-### <a name="scoring"></a>Scoring
+Video of shaping.
 
+### <a name="scoring"></a>Scoring
+Video of scoring. 
 
 Happy baking!!! This was A LOT and I would be so happy to talk to you about your baking challenges if you find yourself confused. Feel free to [email me](mailto:jmadhan1@jhu.edu) -- I love talking about bread :)
                     
