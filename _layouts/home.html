@@ -2,40 +2,9 @@
 layout: default
 title: Home
 ---
+./assets/img/foggy.jpg
 
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body, html {
-  height: 100%;
-  margin: 0;
-}
-
-.bg {
-  /* The image used */
-  background-image: url("./assets/img/foggy.jpg");
-
-  /* Full height */
-  height: 100%; 
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-</style>
-</head>
-<body>
-
-<div class="bg"></div>
-
-<p>This example creates a full page background image. Try to resize the browser window to see how it always will cover the full screen (when scrolled to top), and that it scales nicely on all screen sizes.</p>
-
-</body>
-</html>
-
-
+These are some of the recent things I've been working on! Check out past projects and other fun things above!
 {% for post in paginator.posts %}
   {% include featured-post.html %}
 {% endfor %}
