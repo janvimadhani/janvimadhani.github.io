@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Astro Scholars"
+title: "Film Photography"
 author: "Janvi Madhani"
 categories: fun
 tags: [fun]
