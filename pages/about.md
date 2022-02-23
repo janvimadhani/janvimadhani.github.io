@@ -20,8 +20,6 @@ reading a book! You can check out some of my recent interests like baking sourdo
 <br/><br/>
 <br/><br/>
 ## My Journey in Science In Pictures
-
-<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -128,5 +126,5 @@ function myFunction(imgs) {
 </script>
 
 </body>
-</html>
+
 
