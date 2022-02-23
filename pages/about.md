@@ -93,19 +93,19 @@ body {
 <!-- The four columns -->
 <div class="row">
   <div class="column">
-    <img src="babyjtelly.jpeg" alt="Nature" style="width:100%" onclick="myFunction(this);">
+    <img src="babyjtelly.jpeg" alt="Little Me" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="janvi2_steps_ao.JPG" alt="Snow" style="width:100%" onclick="myFunction(this);">
+    <img src="janvi2_steps_ao.JPG" alt="Janvi AO Steps" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="graduation.JPG" alt="Mountains" style="width:100%" onclick="myFunction(this);">
+    <img src="graduation.JPG" alt="Graduation" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="vjgrad.jpeg" alt="Lights" style="width:100%" onclick="myFunction(this);">
+    <img src="vjgrad.jpeg" alt="Sister" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="aogang.jpeg" alt="Lights" style="width:100%" onclick="myFunction(this);">
+    <img src="aogang.jpeg" alt="Pittsburgh Friends" style="width:100%" onclick="myFunction(this);">
   </div>
 </div>
 
