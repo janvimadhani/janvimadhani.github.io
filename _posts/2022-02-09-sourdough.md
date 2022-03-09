@@ -46,11 +46,11 @@ Before I explain the steps of making dough, here is the schedule I follow which 
 
 #### Day 1 
 8 am: **Make 60 g levain at 1:2:2**  
-      12 g starter + 12 g AP + 12 g WW + 24 g water
+      12 g starter + 12 g AP + 12 g WW + 24 g water (around 85F)
       
 10 am: **Mix dough for autolyse**  
       300 g bread flour (BF) (you can play with the ratios here! use atleast 150 g BF, and with the remaining 150 g, you can use a combination of AP, WW, Rye, or         whatever!)  
-      240 g water 
+      240 g water (around 95F)
        
 1 pm: **Mix dough**  
       Mix autolysed dough with levain
