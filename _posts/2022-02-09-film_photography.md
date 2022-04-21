@@ -85,6 +85,8 @@ body {
     <img src="./assets/img/schenley.jpg" style="width:100%">
     <img src="./assets/img/alleghenyobs.jpg" style="width:100%">
     <img src="./assets/img/frick.jpg" style="width:100%">
+    <img src="./assets/img/yelimchinatown.jpg" style="width:100%">
+    <img src="./assets/img/empirestate.jpg" style="width:100%">
   </div>
   <div class="column">
     <img src="./assets/img/koppers.jpg" style="width:100%">
@@ -103,6 +105,7 @@ body {
     <img src="./assets/img/bananas.jpg" style="width:100%">
     <img src="./assets/img/friendship.jpg" style="width:100%">
     <img src="./assets/img/pghsunset.JPG" style="width:100%">
+  
   </div>
 </div>
 
