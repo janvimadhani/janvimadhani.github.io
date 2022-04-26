@@ -39,6 +39,8 @@ Normally, I feed my starter once a day around 8 pm. On the day before I want to 
 Meet Doughelena, my starter, lovingly named after Helena, my best friend who got me started on this journey and gave me a jar of her own starter when I began.
 ![Doughelena at 8 pm, right after feeding](./assets/img/starter_old.jpg)
 
+</br>
+
 ![Doughelena at 8 am, 12h after feeding](./assets/img/starter_rise.jpg)
 
 ### <a name="baking-schedule"></a>Baking Schedule 
@@ -98,8 +100,10 @@ Levain is "young starter". It is prepared some hours before you start the bulk f
 ### <a name="autolyse"></a>Autolyse
 Autolyse is the process of combining flour and water until the flour is fully hydrated and just letting it rest for some time. This is not necessary, but you will find that including this step results in a more even crumb. This is because, during this autolyse period, gluten begins forming and strengthening. This results in a more elastic, stretchy, and smooth dough that is easier to build tension in. The more tension you can build, the more gas you can trap within the gluten network, resulting in a fluffy and even crumb. You don't have to use any specific technique for autolysing dough! Just roughly mix it together until there is no dry flour left and let it sit covered for the required autolysis time. 
 
+![This is what hydrated dough after 2 hours of autolyse looks like.](./assets/img/autolyse.jpg)
+
 ### <a name="mixing-the-dough"></a>Mixing the Dough
-From this stage forward, wet your hands before handling the dough to prevent it sticking to your fingers and tearing. I like to pinch the dough after adding the levain to make sure the levain is evenly distributed. This is the last stage of the dough where you can handle it roughly. After the fermentation process begins, you'll want to be careful not to knock out the airy gas bubbles. So don't be afraid to really get in there and mix the dough well at this point. After I'm satisfied with how evenly the levain is incorporated, I'll start building tension by pulling the dough under itself to form a tight boule. Wait 30 min to incorporate the salt, allowing the gluten to relax and strengthen again. Use the same technique -- pinch the salt in and then pull the dough into itself to form a boul. 
+From this stage forward, wet your hands before handling the dough to prevent it sticking to your fingers and tearing. I like to pinch the dough after adding the levain to make sure the levain is evenly distributed. This is the last stage of the dough where you can handle it roughly. After the fermentation process begins, you'll want to be careful not to knock out the airy gas bubbles. So don't be afraid to really get in there and mix the dough well at this point. After I'm satisfied with how evenly the levain is incorporated, I'll start building tension by pulling the dough under itself to form a tight boule. Wait 30 min to incorporate the salt, allowing the gluten to relax and strengthen again. Use the same technique -- pinch the salt in and then pull the dough into itself to form a boule. 
 
 Video of pinching. Video of making a boule. 
 
