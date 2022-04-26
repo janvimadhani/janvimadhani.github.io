@@ -38,16 +38,16 @@ Normally, I feed my starter once a day around 8 pm. On the day before I want to 
 
 Meet Doughelena, my starter, lovingly named after Helena, my best friend who got me started on this journey and gave me a jar of her own starter when I began.
 
-<figure>
-      <img src="./assets/img/starter_old.jpg" alt="oldstarter" width="400" style="padding: 10px;" align="center"/>
-      <figcaption>Doughelena at 8pm, right after feeding.</figcaption>
-</figure>
 
+<div class="items">
 <figure>
-      <img src="./assets/img/starter_rise.jpg" alt="oldstarter" width="400" style="padding: 10px;" align="center"/>
-      <figcaption>Doughelena at 8am, 12h after feeding.</figcaption>
+    <img src="./assets/img/starter_old.jpg" alt="oldstarter" width="400" style="padding: 10px;" align="center"/>
+    <figcaption>Doughelena at 8pm, right after feeding</figcaption>
 </figure>
-
+<figure>
+    <img src="./assets/img/starter_rise.jpg" alt="oldstarter" width="400" style="padding: 10px;" align="center"/> 
+    <figcaption>Doughelena at 8am, 12h after feeding.</figcaption>
+</figure></div>
 
 
 ### <a name="baking-schedule"></a>Baking Schedule 
