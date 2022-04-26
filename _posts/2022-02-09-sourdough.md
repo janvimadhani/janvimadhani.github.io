@@ -37,11 +37,18 @@ If you are starting from scratch, start with 25 g water and 25 g flour (equal pa
 Normally, I feed my starter once a day around 8 pm. On the day before I want to bake bread, however, I feed my starter at the 1:2:2 ratio every ~12 hours, once when I wake up, around 8 am, and once in the evening around 8 pm. My baking schedule the day after starts at 8 am, so this gives my starter 12 hours to grow before I'm ready to start the dough making process. If you know you're not going to bake for a while or you're going on vacation, you can also feed your starter as usual and place in the fridge for a couple weeks at a time! I've had luck with up to two weeks but the longer you leave it in the fridge, the harder it is to revive to full strength, so tread cautiously! 
 
 Meet Doughelena, my starter, lovingly named after Helena, my best friend who got me started on this journey and gave me a jar of her own starter when I began.
-![Doughelena at 8 pm, right after feeding](./assets/img/starter_old.jpg)
 
-</br>
+<figure>
+      <img src="./assets/img/starter_old.jpg" alt="oldstarter" width="400" style="padding: 10px;" align="center"/>
+      <figcaption>Doughelena at 8pm, right after feeding.</figcaption>
+</figure>
 
-![Doughelena at 8 am, 12h after feeding](./assets/img/starter_rise.jpg)
+<figure>
+      <img src="./assets/img/starter_rise.jpg" alt="oldstarter" width="400" style="padding: 10px;" align="center"/>
+      <figcaption>Doughelena at 8am, 12h after feeding.</figcaption>
+</figure>
+
+
 
 ### <a name="baking-schedule"></a>Baking Schedule 
 The tools you will need besides a kitchen scale are a banneton (a bread basket to shape the dough in), a thin piece of cloth (like a cheesecloth) to line the banneton with in order to prevent the dough from sticking to the basket, a sharp blade like a razor blade, and a dutch oven. Do not feel like you need to go out and buy all of these things, you can likely find replacements from what you already have! And, a bit of googling will also help you find alternatives to baking with a dutch oven.  
