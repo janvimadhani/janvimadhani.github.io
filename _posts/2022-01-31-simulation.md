@@ -24,3 +24,7 @@ Recently, Charlotte and I were given the wonderful opportunity to present our re
 [![Video of Press Conference Given at AAS 240](https://img.youtube.com/vi/nvrx2ALIopg/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=nvrx2ALIopg&t=1280s))
 
 
+![Charlotte and I after our briefing!](./assets/img/cosmicweb.gif)
+*Pictured left to right: Katya Gozman, Eric Bell, Janvi Madhani, Charlotte Welker, and Hollis Akins. Photo Credit: AAS Press).*
+
+
