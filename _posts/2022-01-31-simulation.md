@@ -15,15 +15,19 @@ Numerous observations in recent years have shown that the satellite galaxies orb
 
 I work with Co-Investigators Dr. Charlotte Welker, Dr. Susan Kassin, and Angela Wroblewski on this project. 
 
+&nbsp;
 
 ![A movie of the formation of the large scale structure, the cosmic web, as gas cools and collapses into filaments over cosmic time](./assets/img/cosmicweb.gif)
 *A movie of the formation of the large scale structure, the cosmic web, as gas cools and collapses into filaments over cosmic time in New Horizon (Dubois et al. 2020).*
+
+&nbsp;
 
 Recently, Charlotte and I were given the wonderful opportunity to present our results at the AAS meeting in Pasadena in a press conference! You can listen to our talk here, starting at 18:30! 
 
 [![Video of Press Conference Given at AAS 240](https://img.youtube.com/vi/nvrx2ALIopg/0.jpg)](https://www.youtube.com/watch?v=nvrx2ALIopg&t=1280s)
 
 &nbsp;
+
 
 ![Charlotte and I after our briefing!](./assets/img/press.JPG)
 *Pictured left to right: Katya Gozman, Eric Bell, Janvi Madhani, Charlotte Welker, and Hollis Akins. Photo Credit: AAS Press).*
