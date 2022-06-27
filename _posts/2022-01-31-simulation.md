@@ -21,7 +21,7 @@ I work with Co-Investigators Dr. Charlotte Welker, Dr. Susan Kassin, and Angela 
 
 Recently, Charlotte and I were given the wonderful opportunity to present our results at the AAS meeting in Pasadena in a press conference! You can listen to our talk here, starting at 18:30! 
 
-[![Video of Press Conference Given at AAS 240](https://img.youtube.com/vi/nvrx2ALIopg/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=nvrx2ALIopg&t=1280s))
+[![Video of Press Conference Given at AAS 240](https://img.youtube.com/vi/nvrx2ALIopg/0.jpg)](https://www.youtube.com/watch?v=nvrx2ALIopg&t=1280s)
 
 
 ![Charlotte and I after our briefing!](./assets/img/cosmicweb.gif)
