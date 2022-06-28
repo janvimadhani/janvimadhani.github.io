@@ -44,9 +44,7 @@ Meet Doughelena, my starter, lovingly named after Helena, my best friend who got
     <img src="./assets/img/starter_old.jpg" alt="oldstarter" width="400" style="padding: 10px;" align="center"/>
     <figcaption>Doughelena at 8pm, right after feeding</figcaption>
 </figure>
-<br>
-    
-</br>
+
     
 <figure>
     <img src="./assets/img/starter_rise.jpg" alt="oldstarter" width="400" style="padding: 10px;" align="center"/> 
