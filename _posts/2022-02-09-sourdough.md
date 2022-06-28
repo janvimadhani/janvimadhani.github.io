@@ -44,11 +44,16 @@ Meet Doughelena, my starter, lovingly named after Helena, my best friend who got
     <img src="./assets/img/starter_old.jpg" alt="oldstarter" width="400" style="padding: 10px;" align="center"/>
     <figcaption>Doughelena at 8pm, right after feeding</figcaption>
 </figure>
+<br>
+    
+</br>
+    
 <figure>
     <img src="./assets/img/starter_rise.jpg" alt="oldstarter" width="400" style="padding: 10px;" align="center"/> 
     <figcaption>Doughelena at 8am, 12h after feeding.</figcaption>
 </figure></div>
 
+&nbsp;
 
 ### <a name="baking-schedule"></a>Baking Schedule 
 The tools you will need besides a kitchen scale are a banneton (a bread basket to shape the dough in), a thin piece of cloth (like a cheesecloth) to line the banneton with in order to prevent the dough from sticking to the basket, a sharp blade like a razor blade, and a dutch oven. Do not feel like you need to go out and buy all of these things, you can likely find replacements from what you already have! And, a bit of googling will also help you find alternatives to baking with a dutch oven.  
