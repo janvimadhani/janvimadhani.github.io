@@ -30,6 +30,6 @@ Recently, Charlotte and I were given the wonderful opportunity to present our re
 
 
 ![Charlotte and I after our briefing!](./assets/img/press.JPG)
-*Pictured left to right: Katya Gozman, Eric Bell, Janvi Madhani, Charlotte Welker, and Hollis Akins. Photo Credit: AAS Press).*
+*Pictured left to right: Katya Gozman, Eric Bell, Janvi Madhani, Charlotte Welker, and Hollis Akins. (Photo Credit: AAS Press)*
 
 
