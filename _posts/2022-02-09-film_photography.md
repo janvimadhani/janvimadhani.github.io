@@ -105,6 +105,15 @@ body {
     <img src="./assets/img/bananas.jpg" style="width:100%">
     <img src="./assets/img/friendship.jpg" style="width:100%">
     <img src="./assets/img/pghsunset.JPG" style="width:100%">
+    <img src="./assets/img/FFF9FA37-4DA0-407C-9F72-95B2C61FAB0D_1_105_c.jpeg" style="width:100%">
+  
+  </div>
+  
+  <div class="column">
+    <img src="./assets/img/0C5C2DC8-CC9F-4ECA-A99C-20E12D2BEDFC_1_105_c.jpeg" style="width:100%">
+    <img src="./assets/img/26D471B5-8229-4A26-80EA-B141DEB0A83C_1_105_c.jpeg" style="width:100%">
+    <img src="./assets/img/296E9FB6-6D62-491A-A8A7-02CBF7F541D9_1_105_c.jpeg" style="width:100%">
+    <img src="./assets/img/AD11AED8-4442-445B-A65E-4B94EDFFD18D_1_105_c.jpeg" style="width:100%">
   
   </div>
 </div>
