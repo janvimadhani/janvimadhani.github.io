@@ -116,6 +116,14 @@ body {
     <img src="./assets/img/AD11AED8-4442-445B-A65E-4B94EDFFD18D_1_105_c.jpeg" style="width:100%">
   
   </div>
+
+    <div class="column">
+    <img src="./assets/img/japanbikes.jpeg" style="width:100%">
+    <img src="./assets/img/cactusbeach.jpeg" style="width:100%">
+    <img src="./assets/img/berlinskateboard.jpeg" style="width:100%">
+    <img src="./assets/img/saraswati.jpeg" style="width:100%">
+  
+  </div>
 </div>
 
 <script>
