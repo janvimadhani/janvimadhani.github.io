@@ -118,10 +118,9 @@ body {
   </div>
 
   <div class="column">
-    <img src="./assets/img/japanbikes.jpeg" style="width:100%">
-    <img src="./assets/img/cactusbeach.jpeg" style="width:100%">
-    <img src="./assets/img/berlinskateboard.jpeg" style="width:100%">
-    <img src="./assets/img/saraswati.jpeg" style="width:100%">
+    <img src="./assets/img/japanbikes.jpg" style="width:100%">
+    <img src="./assets/img/cactusbeach.jpg" style="width:100%">
+    <img src="./assets/img/berlinskateboard.jpg" style="width:100%">
   
   </div>
 </div>
