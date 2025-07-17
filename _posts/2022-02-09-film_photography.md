@@ -117,7 +117,7 @@ body {
   
   </div>
 
-    <div class="column">
+  <div class="column">
     <img src="./assets/img/japanbikes.jpeg" style="width:100%">
     <img src="./assets/img/cactusbeach.jpeg" style="width:100%">
     <img src="./assets/img/berlinskateboard.jpeg" style="width:100%">
