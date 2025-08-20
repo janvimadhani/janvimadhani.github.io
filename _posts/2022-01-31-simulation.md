@@ -4,16 +4,18 @@ title: "The Formation of Planes of Satellite Galaxies: New Horizons Simulation"
 author: "Janvi Madhani"
 categories: projects
 tags: [projects]
-image: hagn.png
+image: nh_gas_HR.png
 ---
 
-Cover Image Credit: Horizon AGN simulation, Dubois et al. 2014
+Cover Image: High Resolution 
+<!-- Cover Image Credit: Horizon AGN simulation, Dubois et al. 2014 -->
 
 
-Numerous observations in recent years have shown that the satellite galaxies orbiting our local galaxies tend to align their orbits in one or two thin planes around the host galaxy. This has been observed in local galaxies, Andromeda and Centaurus A, and our own Milky Way. Numerical simulations in a cosmological context find these planes to be rare or short-lived leading to tension between observation and theory.  This leads to considerable debate on whether observations are compatible with the standard, Lambda Cold Dark Matter, model of cosmology.  We argue that on large scales, these simulations did not sufficiently resolve the nearby large-scale structure, cosmic filaments, which we believe to be responsible for the anisotropic infall of satellites forming planar alignments, and on smaller scales, they did not sufficiently resolve dwarf satellite galaxies. We use the high precision, hydrodynamic, cosmological zoom simulation, New Horizon, which has both the large volume, (16 Mpc)<sup>3</sup> and the small-scale resolution, ~ 35 pc, required to study the interplay between cosmic web dynamics and the formation, funneling, and eventually the anisotropic distribution of satellites around local galaxies.  Our preliminary results indicate that these planes exist in New Horizon in ~ 30% of Milky Way-type systems. Their dynamic and kinematic coherence as well as their correlation with motions down cosmic filaments remains to be investigated. We plan  to publish our results by the end of this summer, so stay tuned!
+Numerous observations in recent years have shown that the satellite galaxies orbiting our local galaxies tend to align their orbits in one or two thin planes around the host galaxy. This has been observed in local galaxies, Andromeda and Centaurus A, and our own Milky Way. Numerical simulations in a cosmological context find these planes to be rare or short-lived leading to tension between observation and theory.  This leads to considerable debate on whether observations are compatible with the standard, Lambda Cold Dark Matter, model of cosmology.  We argue that on large scales, these simulations did not sufficiently resolve the nearby large-scale structure, cosmic filaments, which we believe to be responsible for the anisotropic infall of satellites forming planar alignments, and on smaller scales, they did not sufficiently resolve dwarf satellite galaxies. We use the high precision, hydrodynamic, cosmological zoom simulation, New Horizon, which has both the large volume, (16 Mpc)<sup>3</sup> and the small-scale resolution, ~ 35 pc, required to study the interplay between cosmic web dynamics and the formation, funneling, and eventually the anisotropic distribution of satellites around local galaxies.  Our preliminary results indicate that these planes exist in New Horizon in ~ 30% of Milky Way-type systems.
 
+I work with Co-Investigators Dr. Charlotte Welker and the [Gotham Web Lab] (https://charlottewelker.wixsite.com/charlotte-welker/about-1) on this project. 
 
-I work with Co-Investigators Dr. Charlotte Welker, Dr. Susan Kassin, and Angela Wroblewski on this project. 
+We've recently submitted our publication reporting our findings and investigation into the hydrodynamic origins of these planes. We find 
 
 &nbsp;
 
