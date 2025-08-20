@@ -21,8 +21,10 @@ Broadly, there are three scenarios astronomers consider as possible solutions to
 3. Group Infall ![group infall gif](./assets/img/infalling_satellites_v1_GIF.gif)
 *Dwarf galaxies formed in a group or infalling with a more massive galaxy in the process of merging with another massive galaxy or group, fall into physical alignment, kinematically cohering and co-orbiting around the central galaxy.*
 4. Tidal Dwarf Galaxies ![tidal dwarf gif](./assets/img/Tidal_Dwarf_Galaxy_GIF.gif)
-*As two massive galaxies undergo a close encounter, smaller dwarf galaxies are formed by stripping gas from the central galaxy. These tidally stripped dwarfs fall into kinematic alignment around the central after the encounter. However, in this scenario, the tidally stripped dwarfs should have no dark matter content, which puts this scenario at odds with our observations of dark matter rich dwarves.*
+*As two massive galaxies undergo a close encounter, smaller dwarf galaxies are formed by stripping gas from the central galaxy. These tidally stripped dwarfs fall into kinematic alignment around the central galaxy after the encounter. However, in this scenario, the tidally stripped dwarfs should have no dark matter content, which puts this scenario at odds with our observations of dark matter rich dwarves.*
 
+
+We investigate the first scenario as the most likely one as we believe 
 
 We've recently submitted our publication reporting our findings and investigation into the hydrodynamic origins of these planes, find the pre-print [here!](https://arxiv.org/pdf/2504.18515).
 
