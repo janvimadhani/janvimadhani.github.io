@@ -22,7 +22,12 @@ modeling cosmological phenomena to help us answer these questions. You can find 
 ## Towards a new world...
 I am interested in social movements broadly and organizing and building movements that center dignity and care. Most of my free time is spent organizing in my community and workplace. I deeply believe in anchoring into a collective practice of taking care of each other in a politics of interdependence. Putting care at the center of our relationships with each other and the natural world, I am driven to organize against the exploitation of our labor, the extraction of resources, and all systems that prioritize profit over people and the planet from an anti-imperialist and abolitionist framework.
 
-<img src="./assets/img/tru_picket_line.JPG" alt="picket" width="600" style="padding: 10px;" align="left"/>
+<p align="center">
+  <img src="./assets/img/tru_picket_line.JPG" alt="picket" width="600" style="padding: 10px;"/>
+  <em>Graduate workers in TRU-UE 197 on the picket line at Johns Hopkins. February 20, 2024.</em>
+</p>
+
+
 
 I, along with hundreds of others, helped build the graduate worker union, [Teachers and Researchers United, UE Local 197](https://trujhu.org), at Johns Hopkins. From [winning our union recognition campaign](https://jacobin.com/2023/02/johns-hopkins-university-graduate-workers-union-organizing-working-conditions) to bargaining our very first contract to seeing it through to its current formation -- a strong, member-led union that builds collective power from the grassroots and fights for not only workplace rights locally but with the recognition that our labor is part of much larger, internationalist geography and our struggles are materially linked-- being part of the rising tide of graduate labor has been a transformative experience in my life. You can read some of my reflections about the role of organized grad labor in the current political moment in this [roundtable interview.](https://truthout.org/articles/militant-grad-workers-build-union-power-to-fight-attacks-on-education-and-labor/)  
 
