@@ -38,5 +38,10 @@ My friend and I are working on publishing a critical geography project to map Ba
 I am committed to struggling for a world that I know is possible for us to build, one that I am positioned to help construct as a scientist, and one that I am committed to constructing both within and without the academy.
 
 
+<p align="center">
+  <img src="./assets/img/IMG_5282.JPG" alt="friends sitting together" width="600" style="padding: 10px;"/>
+  <em>Friends and comrades. February 1, 2023.</em>
+</p>
+
 <br/><br/>
 <br/><br/>
