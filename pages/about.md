@@ -24,7 +24,7 @@ I am interested in social movements broadly and organizing and building movement
 
 <p align="center">
   <img src="./assets/img/tru_picket_line.JPG" alt="picket" width="600" style="padding: 10px;"/>
-  <em>Graduate workers in TRU-UE 197 on the picket line at Johns Hopkins. February 20, 2024.</em>
+  <em>Graduate workers in TRU-UE 197 on the picket line at Johns Hopkins. Baltimore, MD. February 20, 2024.</em>
 </p>
 
 
@@ -40,7 +40,7 @@ I am committed to struggling for a world that I know is possible for us to build
 
 <p align="center">
   <img src="./assets/img/IMG_5282.JPG" alt="friends sitting together" width="600" style="padding: 10px;"/>
-  <em>Friends and comrades. February 1, 2023.</em>
+  <em>Friends and comrades. Baltimore, MD. February 1, 2023.</em>
 </p>
 
 <br/><br/>
