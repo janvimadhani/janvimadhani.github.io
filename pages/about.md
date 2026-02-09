@@ -39,7 +39,7 @@ I am committed to struggling for a world that I know is possible for us to build
 
 
  I return to these words from Marxist historian, Mike Davis, often, and I leave them here for you as well:
-> _*Fight with hope, fight without hope, but fight absolutely.*_
+> *Fight with hope, fight without hope, but fight absolutely.*
 
 
 
