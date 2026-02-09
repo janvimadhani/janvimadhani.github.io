@@ -37,8 +37,12 @@ My friend and I are working on publishing a critical geography project to map Ba
 
 I am committed to struggling for a world that I know is possible for us to build, one that I am positioned to help construct as a scientist, and one that I am committed to constructing both within and without the academy.
 
-I return to these words from Marxist historian, Mike Davis, often, and I leave them here for you as well:
-> *Fight with hope, fight without hope, but fight absolutely.*
+<div style="text-align: center;">
+  I return to these words from Marxist historian, Mike Davis, often, and I leave them here for you as well:
+  > *Fight with hope, fight without hope, but fight absolutely.*
+</div>
+
+
 
 
 <p align="center">
