@@ -37,7 +37,6 @@
 
 
 
-
 /* Table styling */
 .halo-info table {
     width: 100%;
@@ -48,7 +47,7 @@
     border: 1px solid rgba(176, 83, 135, 0.4);
     border-radius: 8px;
     overflow: hidden;
-    font-size: 0.9rem;
+    font-size: 0.85rem;
 }
 
 .halo-info td {
@@ -70,4 +69,36 @@
 .halo-info td:last-child {
     text-align: right;
     font-family: monospace;
+}
+
+.halo-info {
+    padding: 14px 16px 18px;
+}
+
+
+/* Hover highlight */ 
+
+.halo-card {
+    transition: transform 0.25s ease, box-shadow 0.25s ease, opacity 0.25s ease;
+}
+
+.halo-grid:hover .halo-card {
+    opacity: 0.6;
+}
+
+.halo-grid .halo-card:hover {
+    opacity: 1;
+    transform: translateY(-6px);
+    box-shadow: 0 12px 30px rgba(0,0,0,0.4);
+}
+
+/* click to expand a single halo*/
+
+.halo-card.expanded {
+    grid-column: 1 / -1;
+    z-index: 10;
+}
+
+.halo-card {
+    transition: all 0.35s ease;
 }
