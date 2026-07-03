@@ -26,6 +26,14 @@ $medium-color: #00AB6C;
 $codepen-color: black;
 $rss-color: #ff6600;
 
+
+.halo-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 24px;
+}
+
+
 @import "-sections-dir";
 
 
@@ -117,8 +125,3 @@ $rss-color: #ff6600;
 
 }
 
-.halo-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 24px;
-}
