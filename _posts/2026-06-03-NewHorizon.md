@@ -43,28 +43,13 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
 
             <table>
                 <tr>
-                    <td>$M_{\rm vir}$</td>
+                    <td><i>M</i><sub>vir</sub></td>
                     <td>1.18 × 10<sup>12</sup> M☉</td>
                 </tr>
-
+                
                 <tr>
-                    <td>$N_{\rm sat}$</td>
+                    <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
-                </tr>
-
-                <tr>
-                    <td>Environment</td>
-                    <td>Filament</td>
-                </tr>
-
-                <tr>
-                    <td>$R_{\rm lop}$</td>
-                    <td>0.68</td>
-                </tr>
-
-                <tr>
-                    <td>$\theta_{\rm lop}$</td>
-                    <td>31°</td>
                 </tr>
 
             </table>
@@ -84,30 +69,14 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
 
             <table>
                 <tr>
-                    <td>$M_{\rm vir}$</td>
+                    <td><i>M</i><sub>vir</sub></td>
                     <td>1.18 × 10<sup>12</sup> M☉</td>
                 </tr>
-
+                
                 <tr>
-                    <td>$N_{\rm sat}$</td>
+                    <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
                 </tr>
-
-                <tr>
-                    <td>Environment</td>
-                    <td>Filament</td>
-                </tr>
-
-                <tr>
-                    <td>$R_{\rm lop}$</td>
-                    <td>0.68</td>
-                </tr>
-
-                <tr>
-                    <td>$\theta_{\rm lop}$</td>
-                    <td>31°</td>
-                </tr>
-
             </table>
 
         </div>
@@ -125,30 +94,14 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
 
             <table>
                 <tr>
-                    <td>$M_{\rm vir}$</td>
+                    <td><i>M</i><sub>vir</sub></td>
                     <td>1.18 × 10<sup>12</sup> M☉</td>
                 </tr>
-
+                
                 <tr>
-                    <td>$N_{\rm sat}$</td>
+                    <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
                 </tr>
-
-                <tr>
-                    <td>Environment</td>
-                    <td>Filament</td>
-                </tr>
-
-                <tr>
-                    <td>$R_{\rm lop}$</td>
-                    <td>0.68</td>
-                </tr>
-
-                <tr>
-                    <td>$\theta_{\rm lop}$</td>
-                    <td>31°</td>
-                </tr>
-
             </table>
 
         </div>
@@ -166,28 +119,13 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
 
             <table>
                 <tr>
-                    <td>$M_{\rm vir}$</td>
+                    <td><i>M</i><sub>vir</sub></td>
                     <td>1.18 × 10<sup>12</sup> M☉</td>
                 </tr>
-
+                
                 <tr>
-                    <td>$N_{\rm sat}$</td>
+                    <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
-                </tr>
-
-                <tr>
-                    <td>Environment</td>
-                    <td>Filament</td>
-                </tr>
-
-                <tr>
-                    <td>$R_{\rm lop}$</td>
-                    <td>0.68</td>
-                </tr>
-
-                <tr>
-                    <td>$\theta_{\rm lop}$</td>
-                    <td>31°</td>
                 </tr>
 
             </table>
@@ -207,28 +145,13 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
 
             <table>
                 <tr>
-                    <td>$M_{\rm vir}$</td>
+                    <td><i>M</i><sub>vir</sub></td>
                     <td>1.18 × 10<sup>12</sup> M☉</td>
                 </tr>
-
+                
                 <tr>
-                    <td>$N_{\rm sat}$</td>
+                    <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
-                </tr>
-
-                <tr>
-                    <td>Environment</td>
-                    <td>Filament</td>
-                </tr>
-
-                <tr>
-                    <td>$R_{\rm lop}$</td>
-                    <td>0.68</td>
-                </tr>
-
-                <tr>
-                    <td>$\theta_{\rm lop}$</td>
-                    <td>31°</td>
                 </tr>
 
             </table>
@@ -248,28 +171,13 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
 
             <table>
                 <tr>
-                    <td>$M_{\rm vir}$</td>
+                    <td><i>M</i><sub>vir</sub></td>
                     <td>1.18 × 10<sup>12</sup> M☉</td>
                 </tr>
-
+                
                 <tr>
-                    <td>$N_{\rm sat}$</td>
+                    <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
-                </tr>
-
-                <tr>
-                    <td>Environment</td>
-                    <td>Filament</td>
-                </tr>
-
-                <tr>
-                    <td>$R_{\rm lop}$</td>
-                    <td>0.68</td>
-                </tr>
-
-                <tr>
-                    <td>$\theta_{\rm lop}$</td>
-                    <td>31°</td>
                 </tr>
 
             </table>
@@ -289,30 +197,14 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
 
             <table>
                 <tr>
-                    <td>$M_{\rm vir}$</td>
+                    <td><i>M</i><sub>vir</sub></td>
                     <td>1.18 × 10<sup>12</sup> M☉</td>
                 </tr>
-
+                
                 <tr>
-                    <td>$N_{\rm sat}$</td>
+                    <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
                 </tr>
-
-                <tr>
-                    <td>Environment</td>
-                    <td>Filament</td>
-                </tr>
-
-                <tr>
-                    <td>$R_{\rm lop}$</td>
-                    <td>0.68</td>
-                </tr>
-
-                <tr>
-                    <td>$\theta_{\rm lop}$</td>
-                    <td>31°</td>
-                </tr>
-
             </table>
 
         </div>
@@ -330,28 +222,13 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
 
             <table>
                 <tr>
-                    <td>$M_{\rm vir}$</td>
+                    <td><i>M</i><sub>vir</sub></td>
                     <td>1.18 × 10<sup>12</sup> M☉</td>
                 </tr>
-
+                
                 <tr>
-                    <td>$N_{\rm sat}$</td>
+                    <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
-                </tr>
-
-                <tr>
-                    <td>Environment</td>
-                    <td>Filament</td>
-                </tr>
-
-                <tr>
-                    <td>$R_{\rm lop}$</td>
-                    <td>0.68</td>
-                </tr>
-
-                <tr>
-                    <td>$\theta_{\rm lop}$</td>
-                    <td>31°</td>
                 </tr>
 
             </table>
@@ -371,28 +248,13 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
 
             <table>
                 <tr>
-                    <td>$M_{\rm vir}$</td>
+                    <td><i>M</i><sub>vir</sub></td>
                     <td>1.18 × 10<sup>12</sup> M☉</td>
                 </tr>
-
+                
                 <tr>
-                    <td>$N_{\rm sat}$</td>
+                    <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
-                </tr>
-
-                <tr>
-                    <td>Environment</td>
-                    <td>Filament</td>
-                </tr>
-
-                <tr>
-                    <td>$R_{\rm lop}$</td>
-                    <td>0.68</td>
-                </tr>
-
-                <tr>
-                    <td>$\theta_{\rm lop}$</td>
-                    <td>31°</td>
                 </tr>
 
             </table>
@@ -412,30 +274,14 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
 
             <table>
                 <tr>
-                    <td>$M_{\rm vir}$</td>
+                    <td><i>M</i><sub>vir</sub></td>
                     <td>1.18 × 10<sup>12</sup> M☉</td>
                 </tr>
-
+                
                 <tr>
-                    <td>$N_{\rm sat}$</td>
+                    <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
                 </tr>
-
-                <tr>
-                    <td>Environment</td>
-                    <td>Filament</td>
-                </tr>
-
-                <tr>
-                    <td>$R_{\rm lop}$</td>
-                    <td>0.68</td>
-                </tr>
-
-                <tr>
-                    <td>$\theta_{\rm lop}$</td>
-                    <td>31°</td>
-                </tr>
-
             </table>
 
         </div>
@@ -453,30 +299,14 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
 
             <table>
                 <tr>
-                    <td>$M_{\rm vir}$</td>
+                    <td><i>M</i><sub>vir</sub></td>
                     <td>1.18 × 10<sup>12</sup> M☉</td>
                 </tr>
-
+                
                 <tr>
-                    <td>$N_{\rm sat}$</td>
+                    <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
                 </tr>
-
-                <tr>
-                    <td>Environment</td>
-                    <td>Filament</td>
-                </tr>
-
-                <tr>
-                    <td>$R_{\rm lop}$</td>
-                    <td>0.68</td>
-                </tr>
-
-                <tr>
-                    <td>$\theta_{\rm lop}$</td>
-                    <td>31°</td>
-                </tr>
-
             </table>
 
         </div>
@@ -494,30 +324,14 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
 
             <table>
                 <tr>
-                    <td>$M_{\rm vir}$</td>
+                    <td><i>M</i><sub>vir</sub></td>
                     <td>1.18 × 10<sup>12</sup> M☉</td>
                 </tr>
-
+                
                 <tr>
-                    <td>$N_{\rm sat}$</td>
+                    <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
                 </tr>
-
-                <tr>
-                    <td>Environment</td>
-                    <td>Filament</td>
-                </tr>
-
-                <tr>
-                    <td>$R_{\rm lop}$</td>
-                    <td>0.68</td>
-                </tr>
-
-                <tr>
-                    <td>$\theta_{\rm lop}$</td>
-                    <td>31°</td>
-                </tr>
-
             </table>
 
         </div>
