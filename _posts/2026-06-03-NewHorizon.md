@@ -27,6 +27,8 @@ Cover Image: High-Resolution Slice of Gas Density in New Horizon (Dubois et al. 
 
 # Filament Evolution Around Massive Galaxies
 
+Here I show the gas density surrounding 12 massive halos in NewHorizon as it evolves from Z = 1 to Z = 0.17. I report the physical properties of each system of galaxies at Z = 0.17 beneath each video. Watch as filaments merge, twist, and zip together! 
+
 <section class="halo-grid">
 
     <article class="halo-card">
