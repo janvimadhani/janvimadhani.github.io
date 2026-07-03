@@ -29,12 +29,6 @@ $rss-color: #ff6600;
 @import "-sections-dir";
 
 
-.halo-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 24px;
-}
-
 .halo-card{
 
     background:#111;
@@ -119,4 +113,10 @@ $rss-color: #ff6600;
 
     font-family:monospace;
 
+}
+
+.halo-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 24px;
 }
