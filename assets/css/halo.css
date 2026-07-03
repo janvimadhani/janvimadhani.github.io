@@ -1,99 +1,63 @@
-
-
 .halo-grid {
-    display: grid;
+    display: grid !important;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 24px;
+    margin-top: 40px;
 }
 
-.halo-card{
-
-    background:#111;
-
-    border:1px solid #333;
-
-    border-radius:12px;
-
-    overflow:hidden;
-
-    transition:0.25s ease;
-
+/* Card container */
+.halo-card {
+    background: #0f0f10;
+    border: 1px solid rgba(245, 213, 71, 0.25);
+    border-radius: 12px;
+    overflow: hidden;
 }
 
-.halo-card:hover{
-
-    transform:translateY(-4px);
-
-    border-color:#f5d547;
-
-    box-shadow:0 0 18px rgba(245,213,71,0.25);
-
+/* Video */
+.halo-card video {
+    width: 100%;
+    display: block;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
 }
 
-.halo-card video{
-
-    display:block;
-
-    width:100%;
-
-    aspect-ratio:1/1;
-
-    object-fit:cover;
-
+/* Text block */
+.halo-info {
+    padding: 14px;
 }
 
-.halo-info{
-
-    padding:18px;
-
+/* Title */
+.halo-info h3 {
+    margin: 0 0 10px 0;
+    color: #f5d547;
+    font-size: 1.05rem;
 }
 
-.halo-info h3{
-
-    margin-top:0;
-    margin-bottom:12px;
-
-    color:#B05387;
-
-    font-size:1.1rem;
-
-}
-
-
+/* Table styling */
 .halo-info table {
     width: 100%;
     border-collapse: collapse;
     background: #F7EEF3;
-    font-size: 0.92rem;
-
-    border: 1px solid #B05387;
+    border: 1px solid rgba(176, 83, 135, 0.4);
     border-radius: 8px;
     overflow: hidden;
+    font-size: 0.9rem;
 }
 
 .halo-info td {
     padding: 6px 10px;
-    border-bottom: 1px solid rgba(176, 83, 135, 0.2);
+    border-bottom: 1px solid rgba(176, 83, 135, 0.15);
 }
 
-
-.halo-info td:first-child{
-
-    color:#B05387;
-
-    width:45%;
-
-}
-
-.halo-info td:last-child{
-
-    text-align:right;
-
-    font-family:monospace;
+.halo-info tr:last-child td {
     border-bottom: none;
-
 }
 
-body {
-    outline: 5px solid red !important;
+.halo-info td:first-child {
+    color: #B05387;
+}
+
+.halo-info td:last-child {
+    text-align: right;
+    font-family: monospace;
 }
