@@ -4,5 +4,7 @@ title: "Exploring Filaments in the New Horizons Simulation"
 author: "Janvi Madhani"
 categories: projects
 tags: [projects]
-image: assets/img/slice_456.png
+image: slice_456.png
 ---
+
+# Heading here
