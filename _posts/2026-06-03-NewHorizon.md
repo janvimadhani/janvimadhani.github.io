@@ -44,7 +44,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
             <table>
                 <tr>
                     <td><i>M</i><sub>vir</sub></td>
-                    <td>1.18 × 10<sup>12</sup> M☉</td>
+                    <td>1.19 × 10<sup>12</sup> M☉</td>
                 </tr>
                 
                 <tr>
@@ -74,7 +74,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
             <table>
                 <tr>
                     <td><i>M</i><sub>vir</sub></td>
-                    <td>1.18 × 10<sup>12</sup> M☉</td>
+                    <td>5.47 × 10<sup>12</sup> M☉</td>
                 </tr>
                 
                 <tr>
@@ -104,7 +104,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
             <table>
                 <tr>
                     <td><i>M</i><sub>vir</sub></td>
-                    <td>1.18 × 10<sup>12</sup> M☉</td>
+                    <td>8.74 × 10<sup>12</sup> M☉</td>
                 </tr>
                 
                 <tr>
@@ -134,7 +134,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
             <table>
                 <tr>
                     <td><i>M</i><sub>vir</sub></td>
-                    <td>1.18 × 10<sup>12</sup> M☉</td>
+                    <td>1.68 × 10<sup>12</sup> M☉</td>
                 </tr>
                 
                 <tr>
@@ -165,7 +165,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
             <table>
                 <tr>
                     <td><i>M</i><sub>vir</sub></td>
-                    <td>1.18 × 10<sup>12</sup> M☉</td>
+                    <td>6.39 × 10<sup>12</sup> M☉</td>
                 </tr>
                 
                 <tr>
@@ -196,7 +196,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
             <table>
                 <tr>
                     <td><i>M</i><sub>vir</sub></td>
-                    <td>1.18 × 10<sup>12</sup> M☉</td>
+                    <td>3.65 × 10<sup>12</sup> M☉</td>
                 </tr>
                 
                 <tr>
@@ -227,7 +227,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
             <table>
                 <tr>
                     <td><i>M</i><sub>vir</sub></td>
-                    <td>1.18 × 10<sup>12</sup> M☉</td>
+                    <td>1.83 × 10<sup>12</sup> M☉</td>
                 </tr>
                 
                 <tr>
@@ -256,7 +256,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
             <table>
                 <tr>
                     <td><i>M</i><sub>vir</sub></td>
-                    <td>1.18 × 10<sup>12</sup> M☉</td>
+                    <td>7.56 × 10<sup>11</sup> M☉</td>
                 </tr>
                 
                 <tr>
@@ -287,7 +287,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
             <table>
                 <tr>
                     <td><i>M</i><sub>vir</sub></td>
-                    <td>1.18 × 10<sup>12</sup> M☉</td>
+                    <td>2.25 × 10<sup>12</sup> M☉</td>
                 </tr>
                 
                 <tr>
@@ -378,7 +378,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
             <table>
                 <tr>
                     <td><i>M</i><sub>vir</sub></td>
-                    <td>1.18 × 10<sup>12</sup> M☉</td>
+                    <td>3.54 × 10<sup>12</sup> M☉</td>
                 </tr>
                 
                 <tr>
