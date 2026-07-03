@@ -49,7 +49,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                 
                 <tr>
                     <td><i>N</i><sub>sat</sub></td>
-                    <td>22</td>
+                    <td>16</td>
                 </tr>
 
                 <tr>
@@ -79,7 +79,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                 
                 <tr>
                     <td><i>N</i><sub>sat</sub></td>
-                    <td>22</td>
+                    <td>60</td>
                 </tr>
 
                 <tr>
@@ -109,7 +109,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                 
                 <tr>
                     <td><i>N</i><sub>sat</sub></td>
-                    <td>22</td>
+                    <td>84</td>
                 </tr>
 
                 <tr>
@@ -139,7 +139,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                 
                 <tr>
                     <td><i>N</i><sub>sat</sub></td>
-                    <td>22</td>
+                    <td>17</td>
                 </tr>
 
                 <tr>
@@ -170,7 +170,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                 
                 <tr>
                     <td><i>N</i><sub>sat</sub></td>
-                    <td>22</td>
+                    <td>104</td>
                 </tr>
 
                 <tr>
@@ -201,7 +201,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                 
                 <tr>
                     <td><i>N</i><sub>sat</sub></td>
-                    <td>22</td>
+                    <td>26</td>
                 </tr>
 
                 <tr>
@@ -232,7 +232,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                 
                 <tr>
                     <td><i>N</i><sub>sat</sub></td>
-                    <td>22</td>
+                    <td>21</td>
                 </tr>
                 <tr>
                     <td>Environment</td>
@@ -261,7 +261,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                 
                 <tr>
                     <td><i>N</i><sub>sat</sub></td>
-                    <td>22</td>
+                    <td>7</td>
                 </tr>
     
                 <tr>
@@ -292,7 +292,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                 
                 <tr>
                     <td><i>N</i><sub>sat</sub></td>
-                    <td>22</td>
+                    <td>32</td>
                 </tr>
     
                 <tr>
@@ -323,7 +323,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                 
                 <tr>
                     <td><i>N</i><sub>sat</sub></td>
-                    <td>22</td>
+                    <td>17</td>
                 </tr>
     
                 <tr>
@@ -353,7 +353,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                 
                 <tr>
                     <td><i>N</i><sub>sat</sub></td>
-                    <td>22</td>
+                    <td>7</td>
                 </tr>
     
                 <tr>
@@ -383,7 +383,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                 
                 <tr>
                     <td><i>N</i><sub>sat</sub></td>
-                    <td>22</td>
+                    <td>14</td>
                 </tr>
     
                 <tr>
