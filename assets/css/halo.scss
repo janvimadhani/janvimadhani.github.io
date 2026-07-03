@@ -1,0 +1,99 @@
+
+
+.halo-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 24px;
+}
+
+.halo-card{
+
+    background:#111;
+
+    border:1px solid #333;
+
+    border-radius:12px;
+
+    overflow:hidden;
+
+    transition:0.25s ease;
+
+}
+
+.halo-card:hover{
+
+    transform:translateY(-4px);
+
+    border-color:#f5d547;
+
+    box-shadow:0 0 18px rgba(245,213,71,0.25);
+
+}
+
+.halo-card video{
+
+    display:block;
+
+    width:100%;
+
+    aspect-ratio:1/1;
+
+    object-fit:cover;
+
+}
+
+.halo-info{
+
+    padding:18px;
+
+}
+
+.halo-info h3{
+
+    margin-top:0;
+    margin-bottom:12px;
+
+    color:#B05387;
+
+    font-size:1.1rem;
+
+}
+
+
+.halo-info table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #F7EEF3;
+    font-size: 0.92rem;
+
+    border: 1px solid #B05387;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.halo-info td {
+    padding: 6px 10px;
+    border-bottom: 1px solid rgba(176, 83, 135, 0.2);
+}
+
+
+.halo-info td:first-child{
+
+    color:#B05387;
+
+    width:45%;
+
+}
+
+.halo-info td:last-child{
+
+    text-align:right;
+
+    font-family:monospace;
+    border-bottom: none;
+
+}
+
+body {
+    outline: 5px solid red !important;
+}
