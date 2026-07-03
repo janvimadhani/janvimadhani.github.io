@@ -398,24 +398,3 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
 
 </section>
 
-
-
-
-<script>
-document.querySelectorAll(".halo-card").forEach(card => {
-    card.addEventListener("click", () => {
-
-        // toggle expanded state
-        const isExpanded = card.classList.contains("expanded");
-
-        // collapse all
-        document.querySelectorAll(".halo-card")
-            .forEach(c => c.classList.remove("expanded"));
-
-        // expand clicked one (if it wasn't already open)
-        if (!isExpanded) {
-            card.classList.add("expanded");
-        }
-    });
-});
-</script>
