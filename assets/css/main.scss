@@ -82,22 +82,23 @@ $rss-color: #ff6600;
 
 }
 
-.halo-info table{
 
-    width:100%;
+.halo-info table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #F7EEF3;
+    font-size: 0.92rem;
 
-    border-collapse:collapse;
-    background: #F7EEF3; 
-
-    font-size:0.92rem;
-
+    border: 1px solid #B05387;
+    border-radius: 8px;
+    overflow: hidden;
 }
 
-.halo-info td{
-
-    padding:5px 0;
-
+.halo-info td {
+    padding: 6px 10px;
+    border-bottom: 1px solid rgba(176, 83, 135, 0.2);
 }
+
 
 .halo-info td:first-child{
 
@@ -112,6 +113,7 @@ $rss-color: #ff6600;
     text-align:right;
 
     font-family:monospace;
+    border-bottom: none;
 
 }
 
