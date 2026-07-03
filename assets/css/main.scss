@@ -28,9 +28,10 @@ $rss-color: #ff6600;
 
 
 .halo-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 24px;
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr) !important;
+    gap: 10px !important;
+    background: rgba(255, 0, 0, 0.1);
 }
 
 
