@@ -27,7 +27,7 @@ A fly-through of the 20 Mpc NewHorizon (Dubois et al. 2020) simulation volume at
 
 # Filament Evolution Around Massive Galaxies
 
-Here, I show the gas density surrounding 12 massive halos in NewHorizon as it evolves from Z = 1 to Z = 0.17. I report the physical properties of each system of galaxies at Z = 0.17 beneath each video. Watch as filaments merge, twist, and zip together! 
+Here I show the gas density surrounding 12 massive halos in NewHorizon as it evolves from Z = 1 to Z = 0.17. I report the physical properties of each system of galaxies at Z = 0.17 beneath each video. Watch as filaments merge, twist, and zip together! 
 
 <section class="halo-grid">
 
