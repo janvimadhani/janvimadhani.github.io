@@ -52,6 +52,10 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                     <td>22</td>
                 </tr>
 
+                <tr>
+                    <td>Environment</td>
+                    <td>Galaxy merger</td>
+                </tr>
             </table>
 
         </div>
@@ -76,6 +80,11 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                 <tr>
                     <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
+                </tr>
+
+                <tr>
+                    <td>Environment</td>
+                    <td>Filament</td>
                 </tr>
             </table>
 
@@ -102,6 +111,11 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                     <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
                 </tr>
+
+                <tr>
+                    <td>Environment</td>
+                    <td>Filament</td>
+                </tr>
             </table>
 
         </div>
@@ -126,6 +140,11 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                 <tr>
                     <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
+                </tr>
+
+                <tr>
+                    <td>Environment</td>
+                    <td>Filament</td>
                 </tr>
 
             </table>
@@ -154,6 +173,11 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                     <td>22</td>
                 </tr>
 
+                <tr>
+                    <td>Environment</td>
+                    <td>Filament</td>
+                </tr>
+
             </table>
 
         </div>
@@ -178,6 +202,11 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                 <tr>
                     <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
+                </tr>
+
+                <tr>
+                    <td>Environment</td>
+                    <td>Filament</td>
                 </tr>
 
             </table>
@@ -230,6 +259,11 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                     <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
                 </tr>
+    
+                <tr>
+                    <td>Environment</td>
+                    <td>Filament</td>
+                </tr>
 
             </table>
 
@@ -255,6 +289,11 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                 <tr>
                     <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
+                </tr>
+    
+                <tr>
+                    <td>Environment</td>
+                    <td>Filament</td>
                 </tr>
 
             </table>
@@ -282,6 +321,11 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                     <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
                 </tr>
+    
+                <tr>
+                    <td>Environment</td>
+                    <td>Filament</td>
+                </tr>
             </table>
 
         </div>
@@ -307,6 +351,11 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                     <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
                 </tr>
+    
+                <tr>
+                    <td>Environment</td>
+                    <td>Filament</td>
+                </tr>
             </table>
 
         </div>
@@ -331,6 +380,11 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                 <tr>
                     <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
+                </tr>
+    
+                <tr>
+                    <td>Environment</td>
+                    <td>Filament</td>
                 </tr>
             </table>
 
