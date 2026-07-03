@@ -7,8 +7,8 @@
 
 /* Card container */
 .halo-card {
-    background: #0f0f10;
-    border: 1px solid rgba(245, 213, 71, 0.25);
+    background: #CB90B0;
+    border: 1px solid rgba(111, 52, 85, 0.25);
     border-radius: 12px;
     overflow: hidden;
     padding-bottom: 6px;
@@ -31,7 +31,7 @@
 /* Title */
 .halo-info h3 {
     margin: 0 0 10px 0;
-    color: #f5d547;
+    color: #AD5284;
     font-size: 1.05rem;
 }
 
