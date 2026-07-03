@@ -84,7 +84,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
 
                 <tr>
                     <td>Environment</td>
-                    <td>Filament</td>
+                    <td>Edge-on filament zipper</td>
                 </tr>
             </table>
 
@@ -114,7 +114,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
 
                 <tr>
                     <td>Environment</td>
-                    <td>Filament</td>
+                    <td>Multiple edge-on filament zippers</td>
                 </tr>
             </table>
 
@@ -144,7 +144,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
 
                 <tr>
                     <td>Environment</td>
-                    <td>Filament</td>
+                    <td>Galaxy merger and possible twister</td>
                 </tr>
 
             </table>
@@ -175,7 +175,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
 
                 <tr>
                     <td>Environment</td>
-                    <td>Filament</td>
+                    <td>Multiple edge-on filament zippers</td>
                 </tr>
 
             </table>
@@ -206,7 +206,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
 
                 <tr>
                     <td>Environment</td>
-                    <td>Filament</td>
+                    <td>Galaxy merger</td>
                 </tr>
 
             </table>
@@ -233,6 +233,10 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
                 <tr>
                     <td><i>N</i><sub>sat</sub></td>
                     <td>22</td>
+                </tr>
+                <tr>
+                    <td>Environment</td>
+                    <td>Galaxy merger</td>
                 </tr>
             </table>
 
@@ -262,7 +266,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
     
                 <tr>
                     <td>Environment</td>
-                    <td>Filament</td>
+                    <td>Filament twister</td>
                 </tr>
 
             </table>
@@ -293,7 +297,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
     
                 <tr>
                     <td>Environment</td>
-                    <td>Filament</td>
+                    <td>Edge-on filament zipper</td>
                 </tr>
 
             </table>
@@ -324,7 +328,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
     
                 <tr>
                     <td>Environment</td>
-                    <td>Filament</td>
+                    <td>Filament twister</td>
                 </tr>
             </table>
 
@@ -354,7 +358,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
     
                 <tr>
                     <td>Environment</td>
-                    <td>Filament</td>
+                    <td>Filament zipper </td>
                 </tr>
             </table>
 
@@ -384,7 +388,7 @@ Here I show the gas density surrounding 12 massive halos in NewHorizon as it evo
     
                 <tr>
                     <td>Environment</td>
-                    <td>Filament</td>
+                    <td>Galaxy merger</td>
                 </tr>
             </table>
 
