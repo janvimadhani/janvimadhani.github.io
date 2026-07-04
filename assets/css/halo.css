@@ -1,9 +1,9 @@
 .halo-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(340px, 420px));
+    grid-template-columns: repeat(3, 360px);
     justify-content: center;
     gap: 28px;
-    align-content: start;
+    width: 100%;
 }
 
 /* Card container */
