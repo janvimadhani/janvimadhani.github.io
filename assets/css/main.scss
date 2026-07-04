@@ -28,3 +28,30 @@ $rss-color: #ff6600;
 
 
 @import "-sections-dir";
+
+.video-figure {
+    margin: 0;
+    text-align: center;
+}
+
+.video-figure video {
+    width: 100%;
+    max-width: 900px;
+    display: block;
+    margin: 0 auto;
+}
+
+.video-caption {
+    margin-top: 10px;
+    font-size: 0.95rem;
+    color: #bbb;
+    line-height: 1.4;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.video-caption {
+    font-style: italic;
+    opacity: 0.9;
+}
