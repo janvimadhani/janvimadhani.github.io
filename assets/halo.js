@@ -3,6 +3,7 @@ console.log("halo.js loaded");
 document.addEventListener("DOMContentLoaded", () => {
 
     console.log(document.querySelectorAll(".halo-card").length);
+    console.log(cards.length);
 
     const cards = document.querySelectorAll(".halo-card");
     const grid = document.querySelector(".halo-grid");
