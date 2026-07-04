@@ -1,59 +1,33 @@
-<script>
-let backdrop = null;
+document.addEventListener("DOMContentLoaded", () => {
 
-document.addEventListener('DOMContentLoaded', () => {
+    const cards = document.querySelectorAll(".halo-card");
+    const grid = document.querySelector(".halo-grid");
 
-    const cards = document.querySelectorAll('.halo-card');
+    function clearExpanded() {
+        cards.forEach(c => c.classList.remove("expanded"));
+        grid.classList.remove("dimmed");
+    }
 
     cards.forEach(card => {
 
-        card.addEventListener('click', () => {
+        card.addEventListener("click", (e) => {
+            e.stopPropagation(); // prevents triggering document click
 
-            // If already expanded → close
-            if (card.classList.contains('is-expanded')) {
-                closeExpanded();
-                return;
+            const isExpanded = card.classList.contains("expanded");
+
+            clearExpanded();
+
+            if (!isExpanded) {
+                card.classList.add("expanded");
+                grid.classList.add("dimmed");
             }
-
-            openExpanded(card);
         });
 
     });
 
+    // CLICK OUTSIDE TO CLOSE
+    document.addEventListener("click", () => {
+        clearExpanded();
+    });
+
 });
-
-function openExpanded(card) {
-
-    // create backdrop once
-    if (!backdrop) {
-        backdrop = document.createElement('div');
-        backdrop.className = 'halo-backdrop';
-        document.body.appendChild(backdrop);
-
-        backdrop.addEventListener('click', closeExpanded);
-    }
-
-    // expand selected card
-    card.classList.add('is-expanded');
-
-    document.body.classList.add('modal-open');
-}
-
-function closeExpanded() {
-
-    document.querySelectorAll('.halo-card.is-expanded')
-        .forEach(card => card.classList.remove('is-expanded'));
-
-    if (backdrop) {
-        backdrop.remove();
-        backdrop = null;
-    }
-
-    document.body.classList.remove('modal-open');
-}
-
-// ESC support
-document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') closeExpanded();
-});
-</script>
