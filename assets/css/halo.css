@@ -3,8 +3,8 @@
     grid-template-columns: repeat(auto-fit, minmax(340px, 420px));
     justify-content: center;
     gap: 28px;
+    align-content: start;
 }
-
 
 /* Card container */
 .halo-card {
