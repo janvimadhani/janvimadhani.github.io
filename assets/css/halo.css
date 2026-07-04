@@ -14,6 +14,8 @@
     overflow: hidden;
     padding-bottom: 6px;
     position: relative;
+    cursor: pointer;
+    transition: transform 0.25s ease, box-shadow 0.25s ease, opacity 0.25s ease;
 }
 
 
@@ -80,9 +82,6 @@
 
 /* Hover highlight */ 
 
-.halo-card {
-    transition: transform 0.25s ease, box-shadow 0.25s ease, opacity 0.25s ease;
-}
 
 .halo-grid:hover .halo-card {
     opacity: 0.6;
@@ -98,12 +97,15 @@
 
 .halo-card.expanded {
     grid-column: 1 / -1;
-    z-index: 10;
+    max-width: 900px;
+    justify-self: center;
 }
 
-.halo-card {
-    transition: all 0.35s ease;
-    cursor: pointer;
+.halo-card.expanded video {
+    max-height: 70vh;
+    width: auto;
+    max-width: 100%;
+    margin: 0 auto;
 }
 
 
