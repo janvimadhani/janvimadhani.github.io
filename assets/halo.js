@@ -1,33 +1,39 @@
-document.addEventListener("DOMContentLoaded", () => {
+<script>
+let backdrop = null;
+document.body.classList.add('modal-open');
 
-    const cards = document.querySelectorAll(".halo-card");
-    const grid = document.querySelector(".halo-grid");
+document.querySelectorAll('.halo-card').forEach(card => {
+    card.addEventListener('click', () => {
 
-    function clearExpanded() {
-        cards.forEach(c => c.classList.remove("expanded"));
-        grid.classList.remove("dimmed");
+        // create backdrop if it doesn't exist
+        if (!backdrop) {
+            backdrop = document.createElement('div');
+            backdrop.className = 'halo-backdrop';
+            document.body.appendChild(backdrop);
+
+            backdrop.addEventListener('click', closeExpanded);
+        }
+
+        card.classList.add('is-expanded');
+        document.body.style.overflow = 'hidden';
+    });
+});
+
+function closeExpanded() {
+    document.querySelectorAll('.halo-card.is-expanded')
+        .forEach(card => card.classList.remove('is-expanded'));
+
+    if (backdrop) {
+        backdrop.remove();
+        backdrop = null;
     }
 
-    cards.forEach(card => {
+    document.body.style.overflow = '';
+}
 
-        card.addEventListener("click", (e) => {
-            e.stopPropagation(); // prevents triggering document click
-
-            const isExpanded = card.classList.contains("expanded");
-
-            clearExpanded();
-
-            if (!isExpanded) {
-                card.classList.add("expanded");
-                grid.classList.add("dimmed");
-            }
-        });
-
-    });
-
-    // CLICK OUTSIDE TO CLOSE
-    document.addEventListener("click", () => {
-        clearExpanded();
-    });
-
+// ESC key support (highly recommended)
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeExpanded();
 });
+document.body.classList.remove('modal-open');
+</script>
