@@ -97,17 +97,14 @@
 
 .halo-card.expanded {
     grid-column: 1 / -1;
-    max-width: 900px;
     justify-self: center;
+    display: inline-block;
+    width: auto;
 }
 
 .halo-card.expanded video {
-    max-height: 70vh;
-    width: auto;
-    max-width: 100%;
-    margin: 0 auto;
+    width: min(850px, 90vw);
 }
-
 
 
 .halo-grid.dimmed .halo-card {
