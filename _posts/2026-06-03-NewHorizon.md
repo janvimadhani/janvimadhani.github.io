@@ -12,7 +12,7 @@ Cover Image: High-Resolution Slice of Gas Density in NewHorizon (Dubois et al. 2
 
 This page presents a comparative atlas of the coevolution of Milky Way–mass galaxies and the cosmic web within the [NewHorizon simulation](https://new.horizon-simulation.org/) at $z=0.17$. The simulation volume is visualized through the gas density field, revealing the cosmic web as an interconnected network of filaments, voids, and dense nodes where galaxies are accreted. Within this environment, 13 massive haloes, hosting Milky Way analogs and their satellites, are identified and studied, allowing for a comparison between large-scale gas morphology and local galaxy growth. For each system, we trace the evolution of its surrounding gas from $Z=1$ to $Z=0.17$, showing how filamentary inflows, mergers, and environmental structure shape the pathways of galaxy assembly across cosmic time.
 
-# Where are massive galaxies located in the cosmic web??
+# Where are massive galaxies located in the cosmic web?
 
 
 
