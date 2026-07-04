@@ -97,9 +97,8 @@
 /* click to expand a single halo*/
 
 .halo-card.expanded {
-    grid-column: 1 / -1 !important;
-    width: 100% !important;
-    background: red !important;
+    grid-column: 1 / -1;
+    z-index: 10;
 }
 
 .halo-card {
