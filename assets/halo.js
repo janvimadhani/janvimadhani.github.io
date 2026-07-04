@@ -2,40 +2,40 @@ console.log("halo.js loaded");
 
 document.addEventListener("DOMContentLoaded", () => {
 
-    console.log(document.querySelectorAll(".halo-card").length);
-    console.log(cards.length);
-
     const cards = document.querySelectorAll(".halo-card");
     const grid = document.querySelector(".halo-grid");
+
+    console.log("Found", cards.length, "cards");
 
     function clearExpanded() {
         cards.forEach(c => c.classList.remove("expanded"));
         if (grid) grid.classList.remove("dimmed");
     }
 
-    cards.forEach(card => {
+    cards.forEach((card, i) => {
 
         card.addEventListener("click", (e) => {
+
+            console.log("Clicked", i);
+
             e.stopPropagation();
 
-            const isExpanded = card.classList.contains("expanded");
+            const expanded = card.classList.contains("expanded");
 
             clearExpanded();
 
-            if (!isExpanded) {
+            if (!expanded) {
+                console.log("Adding expanded");
                 card.classList.add("expanded");
                 if (grid) grid.classList.add("dimmed");
             }
+
         });
 
     });
-    
-    cards.forEach((card, i) => {
-        card.addEventListener("click", (e) => {
-            console.log("clicked", i);
-    
-            card.classList.toggle("expanded");
-        });
+
+    document.addEventListener("click", () => {
+        clearExpanded();
     });
 
 });
