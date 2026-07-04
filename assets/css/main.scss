@@ -71,6 +71,9 @@ $rss-color: #ff6600;
 .wide-figure {
     width: min(1500px, 94vw);
     margin: 40px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 
