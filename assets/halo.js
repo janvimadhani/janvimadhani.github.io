@@ -1,3 +1,5 @@
+console.log("halo.js loaded");
+
 document.addEventListener("DOMContentLoaded", () => {
 
     console.log(document.querySelectorAll(".halo-card").length);
