@@ -5,13 +5,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function clearExpanded() {
         cards.forEach(c => c.classList.remove("expanded"));
-        grid.classList.remove("dimmed");
+        if (grid) grid.classList.remove("dimmed");
     }
 
     cards.forEach(card => {
 
         card.addEventListener("click", (e) => {
-            e.stopPropagation(); // prevents triggering document click
+            e.stopPropagation();
 
             const isExpanded = card.classList.contains("expanded");
 
@@ -19,15 +19,16 @@ document.addEventListener("DOMContentLoaded", () => {
 
             if (!isExpanded) {
                 card.classList.add("expanded");
-                grid.classList.add("dimmed");
+                if (grid) grid.classList.add("dimmed");
             }
         });
 
     });
 
-    // CLICK OUTSIDE TO CLOSE
-    document.addEventListener("click", () => {
-        clearExpanded();
+    document.addEventListener("click", (e) => {
+        if (!e.target.closest(".halo-card")) {
+            clearExpanded();
+        }
     });
 
 });
