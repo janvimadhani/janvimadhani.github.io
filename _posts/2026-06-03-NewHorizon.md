@@ -10,7 +10,7 @@ image: slice_456.png
 
 Cover Image: High-Resolution Slice of Gas Density in NewHorizon (Dubois et al. 2020), Highlighting the Location of One Massive System
 
-This page presents a comparative atlas of the coevolution of Milky Way–mass galaxies and the cosmic web within the [NewHorizon simulation](https://new.horizon-simulation.org/) at $z=0.17$. The simulation volume is visualized through the gas density field, revealing the cosmic web as an interconnected network of filaments, voids, and dense nodes where galaxies are accreted. Within this environment, 13 massive haloes, hosting Milky Way analogs and their satellites, are identified and studied, allowing for a comparison between large-scale gas morphology and local galaxy growth. For each system, we trace the evolution of its surrounding gas from $Z=1$ to $Z=0.17$, showing how filamentary inflows, mergers, and environmental structure shape the pathways of galaxy assembly across cosmic time.
+This page presents a comparative atlas of the coevolution of Milky Way–mass galaxies and the cosmic web within the [NewHorizon simulation](https://new.horizon-simulation.org/) at $z=0.17$. The simulation volume is visualized through the gas density field, revealing the cosmic web as an interconnected network of filaments, voids, and dense nodes where galaxies are accreted. Within this environment, 13 massive haloes, hosting Milky Way analogs and their satellites, are identified and studied, allowing for a comparison between large-scale gas morphology and local galaxy growth. For each system, we trace the evolution of its surrounding gas from $z=1$ to $z=0.17$, showing how filamentary inflows, mergers, and environmental structure shape the pathways of galaxy assembly across cosmic time.
 
 # Where are massive galaxies located in the cosmic web?
 
@@ -39,7 +39,7 @@ A fly-through of the 20 Mpc NewHorizon ([Dubois et al. 2020](https://www.aanda.o
 
 # Filament Evolution Around Massive Galaxies
 
-Here I zoom in around each of the yellow circles above to show the gas density surrounding 12 massive halos in NewHorizon as it evolves from $Z = 1$ to $Z = 0.17$. I skip System 11 as it only has $N_{sat} = 4$, too low a satellite count for further analysis. I report physical properties of each host halo at $Z = 0.17$ beneath each video. Watch as filaments merge, twist, and zip together!  
+Here I zoom in around each of the yellow circles above to show the gas density surrounding 12 massive halos in NewHorizon as it evolves from $z = 1$ to $z = 0.17$. I skip System 11 as it only has $N_{sat} = 4$, too low a satellite count for further analysis. I report physical properties of each host halo at $z = 0.17$ beneath each video. Watch as filaments merge, twist, and zip together!  
 
 <section class="wide-figure halo-grid">
 
