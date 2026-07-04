@@ -13,49 +13,8 @@
     border-radius: 12px;
     overflow: hidden;
     padding-bottom: 6px;
-
-    position: relative;
-    cursor: pointer;
-
-    transition: transform 0.25s ease, box-shadow 0.25s ease, opacity 0.25s ease;
 }
 
-.halo-card:hover {
-    transform: translateY(-6px);
-    box-shadow: 0 12px 30px rgba(0,0,0,0.4);
-    will-change: transform;
-}
-
-.halo-card.is-expanded {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-
-    width: min(1000px, 92vw);
-
-    z-index: 1000;
-
-    background: #f7eef3;
-    box-shadow: 0 0 40px rgba(0,0,0,0.6);
-}
-
-.halo-card.is-expanded:hover {
-    transform: translate(-50%, -50%);
-    box-shadow: 0 0 40px rgba(0,0,0,0.6);
-}
-
-.halo-backdrop {
-    position: fixed;
-    top: 0;
-    left: 0;
-
-    width: 100vw;
-    height: 100vh;
-
-    background: rgba(0,0,0,0.6);
-    z-index: 999;
-}
 
 /* Video */
 .halo-card video {
@@ -108,7 +67,6 @@
     color: #B05387;
 }
 
-
 .halo-info td:last-child {
     text-align: right;
     font-family: monospace;
@@ -118,6 +76,41 @@
     padding: 14px 16px 18px;
 }
 
-body.modal-open {
-    overflow: hidden;
+
+/* Hover highlight */ 
+
+.halo-card {
+    transition: transform 0.25s ease, box-shadow 0.25s ease, opacity 0.25s ease;
+}
+
+.halo-grid:hover .halo-card {
+    opacity: 0.6;
+}
+
+.halo-grid .halo-card:hover {
+    opacity: 1;
+    transform: translateY(-6px);
+    box-shadow: 0 12px 30px rgba(0,0,0,0.4);
+}
+
+/* click to expand a single halo*/
+
+.halo-card.expanded {
+    grid-column: 1 / -1;
+    z-index: 10;
+}
+
+.halo-card {
+    transition: all 0.35s ease;
+    cursor: pointer;
+}
+
+
+
+.halo-grid.dimmed .halo-card {
+    opacity: 0.25;
+}
+
+.halo-grid.dimmed .halo-card.expanded {
+    opacity: 1;
 }
