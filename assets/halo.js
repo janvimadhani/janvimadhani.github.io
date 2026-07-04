@@ -27,6 +27,8 @@ document.addEventListener("DOMContentLoaded", () => {
             if (!expanded) {
                 console.log("Adding expanded");
                 card.classList.add("expanded");
+                console.log(card.classList.contains("expanded"));
+                console.log(card.getAttribute("class"));
                 if (grid) grid.classList.add("dimmed");
             }
 
