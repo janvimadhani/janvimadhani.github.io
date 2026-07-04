@@ -118,4 +118,6 @@
     padding: 14px 16px 18px;
 }
 
-
+body.modal-open {
+    overflow: hidden;
+}
