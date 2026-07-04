@@ -10,7 +10,7 @@ image: slice_456.png
 
 Cover Image: High-Resolution Slice of Gas Density in New Horizon (Dubois et al. 2020), Highlighting the Location of One Massive System
 
-This page presents a comparative atlas of the coevolution of Milky Way–mass galaxies and the cosmic web within the NewHorizon simulation at $z=0.17$. The simulation volume is visualized through the gas density field, revealing the cosmic web as an interconnected network of filaments, voids, and dense nodes where galaxies are accreted. Within this environment, 13 massive haloes, hosting Milky Way analogs and their satellites, are identified and studied, allowing for a comparison between large-scale gas morphology and local galaxy growth. For each system, we trace the evolution of its surrounding gas from $Z=1$ to $Z=0.17$, showing how filamentary inflows, mergers, and environmental structure shape the pathways of galaxy assembly across cosmic time.
+This page presents a comparative atlas of the coevolution of Milky Way–mass galaxies and the cosmic web within the [NewHorizon simulation](https://new.horizon-simulation.org/) at $z=0.17$. The simulation volume is visualized through the gas density field, revealing the cosmic web as an interconnected network of filaments, voids, and dense nodes where galaxies are accreted. Within this environment, 13 massive haloes, hosting Milky Way analogs and their satellites, are identified and studied, allowing for a comparison between large-scale gas morphology and local galaxy growth. For each system, we trace the evolution of its surrounding gas from $Z=1$ to $Z=0.17$, showing how filamentary inflows, mergers, and environmental structure shape the pathways of galaxy assembly across cosmic time.
 
 # Where are massive galaxies located in the cosmic web?
 
@@ -33,7 +33,7 @@ This page presents a comparative atlas of the coevolution of Milky Way–mass ga
 </figure>
 
 
-A fly-through of the 20 Mpc NewHorizon (Dubois et al. 2020) simulation volume at (z = 0.17). The cosmic web is revealed through the gas density field, where diffuse gas appears green and the densest filaments and galaxy cores transition through pink to lavender. The thirteen Milky Way–mass host galaxies, identified as galaxies with $M_* > 10^{10.5} \mathbf{M_\odot}$, embedded in this volume, are highlighted by yellow spheres that expand to a radius of $3R_{\rm vir}$ and become fully opaque as the camera reaches each system, illustrating the region within which satellite galaxies are identified. 
+A fly-through of the 20 Mpc NewHorizon ([Dubois et al. 2020](https://www.aanda.org/articles/aa/full_html/2021/07/aa39429-20/aa39429-20.html)) simulation volume at (z = 0.17). The cosmic web is revealed through the gas density field, where diffuse gas appears green and the densest filaments and galaxy cores transition through pink to lavender. The thirteen Milky Way–mass host galaxies, identified as galaxies with $M_* > 10^{10.5} \mathbf{M_\odot}$, embedded in this volume, are highlighted by yellow spheres that expand to a radius of $3R_{\rm vir}$ and become fully opaque as the camera reaches each system, illustrating the region within which satellite galaxies are identified. 
 
 # Filament Evolution Around Massive Galaxies
 
