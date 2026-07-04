@@ -1,6 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
 
-    console.log("cards:", document.querySelectorAll(".halo-card").length);
     const cards = document.querySelectorAll(".halo-card");
     const grid = document.querySelector(".halo-grid");
 
@@ -27,7 +26,6 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     document.addEventListener("click", (e) => {
-        console.log("clicked card");
         if (!e.target.closest(".halo-card")) {
             clearExpanded();
         }
