@@ -1,5 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
 
+    console.log(document.querySelectorAll(".halo-card").length);
+
     const cards = document.querySelectorAll(".halo-card");
     const grid = document.querySelector(".halo-grid");
 
