@@ -6,8 +6,8 @@ const grid = document.querySelector(".halo-grid");
 console.log("Found", cards.length, "cards");
 
 function clearExpanded() {
-  cards.forEach(c => c.classList.remove("expanded"));
-  if (grid) grid.classList.remove("dimmed");
+    cards.forEach(c => c.classList.remove("expanded"));
+    grid?.classList.remove("dimmed");
 }
 
 cards.forEach((card, i) => {
@@ -23,6 +23,18 @@ cards.forEach((card, i) => {
       card.classList.add("expanded");
       if (grid) grid.classList.add("dimmed");
     }
+
+    document.addEventListener("click", (e) => {
+        if (!e.target.closest(".halo-card")) {
+            clearExpanded();
+        }
+    });
+
+    document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") {
+        clearExpanded();
+    }
+});
 
     console.log("expanded?", card.classList.contains("expanded"));
   });
