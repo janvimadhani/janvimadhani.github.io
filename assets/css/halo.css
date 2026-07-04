@@ -99,18 +99,28 @@
 
 .halo-card.expanded {
     grid-column: 1 / -1;
-
     justify-self: center;
 
-    width: auto;
-    display: inline-block;
+    display: grid;
+    grid-template-columns: minmax(0, 650px) 260px;
+
+    width: fit-content;
+    max-width: 92vw;
 }
 
 .halo-card.expanded video {
-    width: min(650px, 88vw);
+    width: 650px;
+    max-width: 60vw;
     height: auto;
-    display: block;
-    margin: 0 auto;
+    aspect-ratio: 1 / 1;
+    object-fit: contain;
+}
+
+.halo-card.expanded .halo-info {
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .halo-grid.dimmed .halo-card {
@@ -121,8 +131,7 @@
     opacity: 1;
 }
 
-
-/* makes desktop 3 columns, tablet 2, and mobile 1 */ 
+/* desktop 3 columns, tablet 2, mobile 1 */
 
 @media (max-width: 1200px) {
     .halo-grid {
@@ -146,7 +155,13 @@
 
     .halo-card.expanded {
         grid-column: auto;
+        display: block;
         width: 100%;
         max-width: 420px;
+    }
+
+    .halo-card.expanded video {
+        width: 100%;
+        max-width: 100%;
     }
 }
