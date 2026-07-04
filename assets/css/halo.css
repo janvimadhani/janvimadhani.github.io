@@ -99,8 +99,8 @@
     grid-column: 1 / -1;
     justify-self: center;
 
-    width: min(760px, 90vw);
-    max-width: 760px;
+    width: min(700px, 90vw);
+    max-width: 700px;
 }
 
 .halo-card.expanded video {
