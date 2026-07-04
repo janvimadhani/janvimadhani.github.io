@@ -58,10 +58,14 @@ $rss-color: #ff6600;
 }
 
 .content-wrapper {
-    display: flex;
-    justify-content: center;
+    width: 100%;
 }
 
 .post-content {
     width: min(1600px, 95vw);
+}
+
+.post-content {
+    max-width: 1600px;
+    margin: 0 auto;
 }
