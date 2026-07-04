@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         card.addEventListener("click", (e) => {
 
-            console.log("Clicked", i);
+            console.log(card.tagName, card.className);
 
             e.stopPropagation();
 
