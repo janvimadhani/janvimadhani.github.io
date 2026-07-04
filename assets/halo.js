@@ -29,11 +29,13 @@ document.addEventListener("DOMContentLoaded", () => {
         });
 
     });
-
-    document.addEventListener("click", (e) => {
-        if (!e.target.closest(".halo-card")) {
-            clearExpanded();
-        }
+    
+    cards.forEach((card, i) => {
+        card.addEventListener("click", (e) => {
+            console.log("clicked", i);
+    
+            card.classList.toggle("expanded");
+        });
     });
 
 });
