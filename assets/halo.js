@@ -1,25 +1,46 @@
 <script>
 let backdrop = null;
-document.body.classList.add('modal-open');
 
-document.querySelectorAll('.halo-card').forEach(card => {
-    card.addEventListener('click', () => {
+document.addEventListener('DOMContentLoaded', () => {
 
-        // create backdrop if it doesn't exist
-        if (!backdrop) {
-            backdrop = document.createElement('div');
-            backdrop.className = 'halo-backdrop';
-            document.body.appendChild(backdrop);
+    const cards = document.querySelectorAll('.halo-card');
 
-            backdrop.addEventListener('click', closeExpanded);
-        }
+    cards.forEach(card => {
 
-        card.classList.add('is-expanded');
-        document.body.style.overflow = 'hidden';
+        card.addEventListener('click', () => {
+
+            // If already expanded → close
+            if (card.classList.contains('is-expanded')) {
+                closeExpanded();
+                return;
+            }
+
+            openExpanded(card);
+        });
+
     });
+
 });
 
+function openExpanded(card) {
+
+    // create backdrop once
+    if (!backdrop) {
+        backdrop = document.createElement('div');
+        backdrop.className = 'halo-backdrop';
+        document.body.appendChild(backdrop);
+
+        backdrop.addEventListener('click', closeExpanded);
+    }
+
+    // expand selected card
+    card.classList.add('is-expanded');
+
+    document.body.classList.add('modal-open');
+}
+
 function closeExpanded() {
+
     document.querySelectorAll('.halo-card.is-expanded')
         .forEach(card => card.classList.remove('is-expanded'));
 
@@ -28,12 +49,11 @@ function closeExpanded() {
         backdrop = null;
     }
 
-    document.body.style.overflow = '';
+    document.body.classList.remove('modal-open');
 }
 
-// ESC key support (highly recommended)
+// ESC support
 document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') closeExpanded();
 });
-document.body.classList.remove('modal-open');
 </script>
