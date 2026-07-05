@@ -56,7 +56,7 @@ Click each panel below for more information about suggested solutions.
 </div>
 
 
-We investigate the first scenario as the most likely one in our manuscript, which was recently accepted by ApJ. In this paper, we report our findings and investigation into the hydrodynamic origins of these planes. Find it [here!](https://arxiv.org/pdf/2504.18515).
+We investigate the first scenario and find that planes of satellites do exist in simulations when the surrounding cosmic environment is properly resolved in our paper, Madhani et al 2026. In this paper, we report our findings as well as investigate the hydrodynamic origins of these planes and find that satellite alignments are closely related to the local vorticity of gas streams as well as the large-scale direction of filamentary accretion, as predicted. Together, these findings offer a robust solution to a decades-long question of discrepancy with our LCDM cosmological model. Find the paper [here!](https://arxiv.org/pdf/2504.18515).
 
 And take a look at my page on [filamentary evolution](https://janvimadhani.github.io/filaments) to visualize the gas-rich cosmic web around Milky Way-like systems in NewHorizon, where we investigate the environmental drivers of satellite distributions. 
 
