@@ -16,22 +16,18 @@ Numerous observations in recent years have shown that the satellite galaxies orb
 I work with Dr. Charlotte Welker and the [Gotham Web Lab](https://charlottewelker.wixsite.com/charlotte-welker/about-1) on this project. We argue that on large scales, these simulations did not sufficiently resolve the nearby large-scale structure, cosmic filaments, which we believe to be responsible for the anisotropic infall of satellites forming planar alignments, and on smaller scales, they did not sufficiently resolve dwarf satellite galaxies. We use the high precision, hydrodynamic, cosmological zoom simulation, New Horizon, which has both the large volume, (16 Mpc)<sup>3</sup> and the small-scale resolution, ~ 35 pc, required to study the interplay between cosmic web dynamics and the formation, funneling, and eventually the anisotropic distribution of satellites around local galaxies. 
 
 Broadly, there are three scenarios astronomers consider as possible solutions to this problem. 
-1. Filamentary accretion ![fil accretion gif](./assets/img/Filament_GIF.gif)
-*Massive galaxies form at the nodes of gas and dark matter rich filaments. Smaller galaxies form at the spines of cold pristine filaments and are funneled towards the nodes. Their anisotropic infall towards the central galaxy gives rise to alignments along the axis of infall and could provide a natural explanation for the planar systems we observe in our local universe due to our proximity to a large cosmic filament, the Virgo cluster.*
-3. Group Infall ![group infall gif](./assets/img/infalling_satellites_v1_GIF.gif)
-*Dwarf galaxies formed in a group or infalling with a more massive galaxy in the process of merging with another massive galaxy or group, fall into physical alignment, kinematically cohering and co-orbiting around the central galaxy.*
-4. Tidal Dwarf Galaxies ![tidal dwarf gif](./assets/img/Tidal_Dwarf_Galaxy_GIF.gif)
-*As two massive galaxies undergo a close encounter, smaller dwarf galaxies are formed by stripping gas from the central galaxy. These tidally stripped dwarfs fall into kinematic alignment around the central galaxy after the encounter. However, in this scenario, the tidally stripped dwarfs should have no dark matter content, which puts this scenario at odds with our observations of dark matter rich dwarves.*
+Click each panel below for more information about suggested solutions. 
 
 <div class="scenario-grid">
   <article class="scenario-card">
     <img src="/assets/img/Filament_GIF.gif" alt="Filamentary accretion gif">
     <h3>Filamentary Accretion</h3>
     <p class="short-caption">Satellites fall in along cosmic filaments.</p>
-    <p class="detail-caption">
-      Massive galaxies form at the nodes of gas- and dark-matter-rich filaments.
-      Smaller galaxies form along the spines of cold filaments and are funneled
-      toward the node, producing anisotropic infall around the central galaxy.
+    <p class="detail-caption"> 
+      Massive galaxies form at the nodes of gas and dark matter rich filaments. Smaller galaxies form at the spines of cold pristine 
+      filaments and are funneled towards the nodes. Their anisotropic infall towards the central galaxy gives rise to alignments along 
+      the axis of infall and could provide a natural explanation for the planar systems we observe in our local universe due to our 
+      proximity to a large cosmic filament, the Virgo cluster.
     </p>
   </article>
 
@@ -39,10 +35,10 @@ Broadly, there are three scenarios astronomers consider as possible solutions to
     <img src="/assets/img/infalling_satellites_v1_GIF.gif" alt="Group infall gif">
     <h3>Group Infall</h3>
     <p class="short-caption">Dwarfs arrive together as a coherent group.</p>
-    <p class="detail-caption">
-      Dwarf galaxies formed in a group, or falling in with a more massive
-      companion, can enter the host halo together and create spatial or
-      kinematic alignment around the central galaxy.
+    <p class="detail-caption"> 
+      Dwarf galaxies formed in a group or infalling with a more massive galaxy 
+      in the process of merging with another massive galaxy or group, fall into physical alignment, 
+      kinematically cohering and co-orbiting around the central galaxy.
     </p>
   </article>
 
@@ -50,16 +46,17 @@ Broadly, there are three scenarios astronomers consider as possible solutions to
     <img src="/assets/img/Tidal_Dwarf_Galaxy_GIF.gif" alt="Tidal dwarf galaxies gif">
     <h3>Tidal Dwarf Galaxies</h3>
     <p class="short-caption">Dwarfs form from stripped tidal material.</p>
-    <p class="detail-caption">
-      During a close encounter between massive galaxies, stripped gas can form
-      smaller dwarf galaxies that later appear aligned. This scenario is
-      difficult to reconcile with dark-matter-rich dwarf observations.
+    <p class="detail-caption"> 
+      As two massive galaxies undergo a close encounter, smaller dwarf galaxies are formed by stripping gas from the central galaxy. 
+      These tidally stripped dwarfs fall into kinematic alignment around the central galaxy after the encounter. However, 
+      in this scenario, the tidally stripped dwarfs should have no dark matter content, which puts 
+      this scenario at odds with our observations of dark matter rich dwarves.
     </p>
   </article>
 </div>
 
 
-We investigate the first scenario as the most likely one as we believe 
+We investigate the first scenario as the most likely one. 
 
 We've recently submitted our publication reporting our findings and investigation into the hydrodynamic origins of these planes, find the pre-print [here!](https://arxiv.org/pdf/2504.18515).
 
@@ -70,7 +67,7 @@ We've recently submitted our publication reporting our findings and investigatio
 
 &nbsp;
 
-Recently, Charlotte and I were given the wonderful opportunity to present our results at the AAS meeting in Pasadena in a press conference! You can listen to our talk here, starting at 18:30! 
+At the AAS 240 Conference in Pasadena that took place during the summer of 2022, Charlotte and I were given the wonderful opportunity to present our results at a press conference! You can listen to our talk here, starting at 18:30! Here we discuss our discovery of planes of satellites in NewHorizon. 
 
 [![Video of Press Conference Given at AAS 240](https://img.youtube.com/vi/nvrx2ALIopg/0.jpg)](https://www.youtube.com/watch?v=nvrx2ALIopg&t=1280s)
 
