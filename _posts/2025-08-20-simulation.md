@@ -23,6 +23,41 @@ Broadly, there are three scenarios astronomers consider as possible solutions to
 4. Tidal Dwarf Galaxies ![tidal dwarf gif](./assets/img/Tidal_Dwarf_Galaxy_GIF.gif)
 *As two massive galaxies undergo a close encounter, smaller dwarf galaxies are formed by stripping gas from the central galaxy. These tidally stripped dwarfs fall into kinematic alignment around the central galaxy after the encounter. However, in this scenario, the tidally stripped dwarfs should have no dark matter content, which puts this scenario at odds with our observations of dark matter rich dwarves.*
 
+<div class="scenario-grid">
+  <article class="scenario-card">
+    <img src="/assets/img/Filament_GIF.gif" alt="Filamentary accretion gif">
+    <h3>Filamentary Accretion</h3>
+    <p class="short-caption">Satellites fall in along cosmic filaments.</p>
+    <p class="detail-caption">
+      Massive galaxies form at the nodes of gas- and dark-matter-rich filaments.
+      Smaller galaxies form along the spines of cold filaments and are funneled
+      toward the node, producing anisotropic infall around the central galaxy.
+    </p>
+  </article>
+
+  <article class="scenario-card">
+    <img src="/assets/img/infalling_satellites_v1_GIF.gif" alt="Group infall gif">
+    <h3>Group Infall</h3>
+    <p class="short-caption">Dwarfs arrive together as a coherent group.</p>
+    <p class="detail-caption">
+      Dwarf galaxies formed in a group, or falling in with a more massive
+      companion, can enter the host halo together and create spatial or
+      kinematic alignment around the central galaxy.
+    </p>
+  </article>
+
+  <article class="scenario-card">
+    <img src="/assets/img/Tidal_Dwarf_Galaxy_GIF.gif" alt="Tidal dwarf galaxies gif">
+    <h3>Tidal Dwarf Galaxies</h3>
+    <p class="short-caption">Dwarfs form from stripped tidal material.</p>
+    <p class="detail-caption">
+      During a close encounter between massive galaxies, stripped gas can form
+      smaller dwarf galaxies that later appear aligned. This scenario is
+      difficult to reconcile with dark-matter-rich dwarf observations.
+    </p>
+  </article>
+</div>
+
 
 We investigate the first scenario as the most likely one as we believe 
 
