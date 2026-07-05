@@ -59,3 +59,14 @@ document.querySelectorAll(".scenario-card").forEach((card) => {
     }
   });
 });
+
+document.addEventListener("click", (e) => {
+  const openGrid = document.querySelector(".scenario-grid.dimmed");
+
+  if (openGrid && !e.target.closest(".scenario-card")) {
+    openGrid.classList.remove("dimmed");
+    openGrid.querySelectorAll(".scenario-card").forEach((card) => {
+      card.classList.remove("expanded");
+    });
+  }
+});
