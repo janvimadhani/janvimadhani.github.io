@@ -165,3 +165,77 @@
         max-width: 100%;
     }
 }
+
+
+/* for gifs */
+
+.scenario-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+  margin: 32px 0;
+}
+
+.scenario-card {
+  cursor: pointer;
+  border-radius: 16px;
+  padding: 16px;
+  background: rgba(255, 255, 255, 0.04);
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.scenario-card:hover {
+  transform: translateY(-4px);
+}
+
+.scenario-card img {
+  width: 100%;
+  display: block;
+  border-radius: 12px;
+}
+
+.scenario-card h3 {
+  margin: 14px 0 8px;
+}
+
+.short-caption {
+  margin-bottom: 0;
+}
+
+.detail-caption {
+  display: none;
+}
+
+.scenario-grid.dimmed .scenario-card {
+  opacity: 0.25;
+}
+
+.scenario-grid.dimmed .scenario-card.expanded {
+  opacity: 1;
+}
+
+.scenario-card.expanded {
+  grid-column: 1 / -1;
+  justify-self: center;
+  max-width: 760px;
+  width: 100%;
+}
+
+.scenario-card.expanded .detail-caption {
+  display: block;
+  margin-top: 12px;
+}
+
+.scenario-card.expanded .short-caption {
+  display: none;
+}
+
+@media (max-width: 900px) {
+  .scenario-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .scenario-card.expanded {
+    grid-column: auto;
+  }
+}
