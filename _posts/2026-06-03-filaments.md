@@ -6,7 +6,6 @@ categories: projects
 tags: [projects]
 image: slice_456.png
 ---
-testing
 
 Cover Image: High-Resolution Slice of Gas Density in NewHorizon (Dubois et al. 2020), Highlighting the Location of One Massive System
 
