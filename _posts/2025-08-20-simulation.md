@@ -11,11 +11,12 @@ Cover Image: High Resolution Gas Cube of NewHorizon, Dubois et al. 2020, 20 Mpc/
 <!-- Cover Image Credit: Horizon AGN simulation, Dubois et al. 2014 -->
 
 
-Numerous observations in recent years have shown that the satellite galaxies orbiting our local galaxies tend to align their orbits in one or two thin planes around the host galaxy. This has been observed in local galaxies, Andromeda and Centaurus A, and our own Milky Way. Numerical simulations in a cosmological context find these planes to be rare or short-lived leading to tension between observation and theory.  This leads to considerable debate on whether observations are compatible with the standard, $\Lambda$ Cold Dark Matter, model of cosmology. This is known as the "Planes of Satellites Problem".  
+Numerous observations in recent years have shown that the satellite galaxies orbiting our local galaxies tend to align their orbits in one or two thin planes around the host galaxy. This has been observed in local galaxies, Andromeda and Centaurus A, and our own Milky Way. Numerical simulations in a cosmological context find these planes to be rare or short-lived leading to tension between observation and theory.  This leads to considerable debate on whether observations are compatible with the standard, $\Lambda$ - Cold Dark Matter, model of cosmology. This is known as the "Planes of Satellites Problem".  
 
 I work with Dr. Charlotte Welker and the [Gotham Web Lab](https://charlottewelker.wixsite.com/charlotte-welker/about-1) on this project. We argue that on large scales, these simulations did not sufficiently resolve the nearby large-scale structure, cosmic filaments, which we believe to be responsible for the anisotropic infall of satellites forming planar alignments, and on smaller scales, they did not sufficiently resolve dwarf satellite galaxies. We use the high precision, hydrodynamic, cosmological zoom simulation, [NewHorizon](https://new.horizon-simulation.org/), which has both the large volume, (16 Mpc)<sup>3</sup> and the small-scale resolution, ~ 35 pc, required to study the interplay between cosmic web dynamics and the formation, funneling, and eventually the anisotropic distribution of satellites around local galaxies. 
 
 Broadly, there are three scenarios astronomers consider as possible solutions to this problem. 
+
 Click each panel below for more information about suggested solutions. 
 
 <div class="scenario-grid">
@@ -56,7 +57,7 @@ Click each panel below for more information about suggested solutions.
 </div>
 
 
-We investigate the first scenario and find that planes of satellites do exist in simulations when the surrounding cosmic environment is properly resolved in our paper, Madhani et al 2026. In this paper, we report our findings as well as investigate the hydrodynamic origins of these planes and find that satellite alignments are closely related to the local vorticity of gas streams as well as the large-scale direction of filamentary accretion, as predicted. Together, these findings offer a robust solution to a decades-long question of discrepancy with our LCDM cosmological model. Find the paper [here!](https://arxiv.org/pdf/2504.18515).
+We investigate the first scenario and find that planes of satellites do exist in simulations when the surrounding cosmic environment is properly resolved in our paper, Madhani et al 2026. In this paper, we report our findings as well as investigate the hydrodynamic origins of these planes and find that satellite alignments are closely related to the local vorticity of gas streams as well as the large-scale direction of filamentary accretion, as predicted. Together, these findings offer a robust solution to a decades-long question of discrepancy with our $\Lambda$CDM cosmological model. Find the paper [here!](https://arxiv.org/pdf/2504.18515).
 
 And take a look at my page on [filamentary evolution](https://janvimadhani.github.io/filaments) to visualize the gas-rich cosmic web around Milky Way-like systems in NewHorizon, where we investigate the environmental drivers of satellite distributions. 
 
