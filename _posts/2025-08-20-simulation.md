@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "The Formation of Planes of Satellite Galaxies: New Horizons Simulation"
+title: "The Formation of Planes of Satellite Galaxies: NewHorizon Simulation"
 author: "Janvi Madhani"
 categories: projects
 tags: [projects]
 image: nh_gas_HR.png
 ---
 
-Cover Image: High Resolution Gas Cube of New Horizon, Dubois et al. 2020, 20 Mpc/h on a side
+Cover Image: High Resolution Gas Cube of NewHorizon, Dubois et al. 2020, 20 Mpc/h on a side
 <!-- Cover Image Credit: Horizon AGN simulation, Dubois et al. 2014 -->
 
 
 Numerous observations in recent years have shown that the satellite galaxies orbiting our local galaxies tend to align their orbits in one or two thin planes around the host galaxy. This has been observed in local galaxies, Andromeda and Centaurus A, and our own Milky Way. Numerical simulations in a cosmological context find these planes to be rare or short-lived leading to tension between observation and theory.  This leads to considerable debate on whether observations are compatible with the standard, Lambda Cold Dark Matter, model of cosmology. This is known as the "Planes of Satellites Problem".  
 
-I work with Dr. Charlotte Welker and the [Gotham Web Lab](https://charlottewelker.wixsite.com/charlotte-welker/about-1) on this project. We argue that on large scales, these simulations did not sufficiently resolve the nearby large-scale structure, cosmic filaments, which we believe to be responsible for the anisotropic infall of satellites forming planar alignments, and on smaller scales, they did not sufficiently resolve dwarf satellite galaxies. We use the high precision, hydrodynamic, cosmological zoom simulation, New Horizon, which has both the large volume, (16 Mpc)<sup>3</sup> and the small-scale resolution, ~ 35 pc, required to study the interplay between cosmic web dynamics and the formation, funneling, and eventually the anisotropic distribution of satellites around local galaxies. 
+I work with Dr. Charlotte Welker and the [Gotham Web Lab](https://charlottewelker.wixsite.com/charlotte-welker/about-1) on this project. We argue that on large scales, these simulations did not sufficiently resolve the nearby large-scale structure, cosmic filaments, which we believe to be responsible for the anisotropic infall of satellites forming planar alignments, and on smaller scales, they did not sufficiently resolve dwarf satellite galaxies. We use the high precision, hydrodynamic, cosmological zoom simulation, [NewHorizon](https://new.horizon-simulation.org/), which has both the large volume, (16 Mpc)<sup>3</sup> and the small-scale resolution, ~ 35 pc, required to study the interplay between cosmic web dynamics and the formation, funneling, and eventually the anisotropic distribution of satellites around local galaxies. 
 
 Broadly, there are three scenarios astronomers consider as possible solutions to this problem. 
 Click each panel below for more information about suggested solutions. 
@@ -56,9 +56,9 @@ Click each panel below for more information about suggested solutions.
 </div>
 
 
-We investigate the first scenario as the most likely one. 
+We investigate the first scenario as the most likely one in our manuscript, which was recently accepted by ApJ. In this paper, we report our findings and investigation into the hydrodynamic origins of these planes. Find it [here!](https://arxiv.org/pdf/2504.18515).
 
-We've recently submitted our publication reporting our findings and investigation into the hydrodynamic origins of these planes, find the pre-print [here!](https://arxiv.org/pdf/2504.18515).
+And take a look at my page on [filamentary evolution](https://janvimadhani.github.io/filaments) to visualize the gas-rich cosmic web around Milky Way-like systems in NewHorizon, where we investigate the environmental drivers of satellite distributions. 
 
 &nbsp;
 
