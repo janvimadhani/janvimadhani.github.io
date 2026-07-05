@@ -42,49 +42,20 @@ cards.forEach((card, i) => {
 
 
 
-// for gifs on planes page 
-const cards = document.querySelectorAll(".scenario-card");
+document.querySelectorAll(".scenario-card").forEach((card) => {
+  card.addEventListener("click", () => {
+    const grid = card.closest(".scenario-grid");
+    const alreadyExpanded = card.classList.contains("expanded");
 
-cards.forEach(card => {
-    card.addEventListener("click", (e) => {
-        e.stopPropagation();
-
-        const grid = card.closest(".scenario-grid");
-        const expanded = card.classList.contains("expanded");
-
-        // Collapse all cards first
-        grid.querySelectorAll(".scenario-card").forEach(c => {
-            c.classList.remove("expanded");
-        });
-
-        if (expanded) {
-            grid.classList.remove("dimmed");
-        } else {
-            card.classList.add("expanded");
-            grid.classList.add("dimmed");
-        }
+    grid.querySelectorAll(".scenario-card").forEach((c) => {
+      c.classList.remove("expanded");
     });
-});
 
-// Click anywhere outside the cards to collapse
-document.addEventListener("click", (e) => {
-    document.querySelectorAll(".scenario-grid").forEach(grid => {
-        if (!grid.contains(e.target)) {
-            grid.classList.remove("dimmed");
-            grid.querySelectorAll(".scenario-card").forEach(card => {
-                card.classList.remove("expanded");
-            });
-        }
-    });
-});
-
-document.addEventListener("keydown", (e) => {
-    if (e.key === "Escape") {
-        document.querySelectorAll(".scenario-grid").forEach(grid => {
-            grid.classList.remove("dimmed");
-            grid.querySelectorAll(".scenario-card").forEach(card => {
-                card.classList.remove("expanded");
-            });
-        });
+    if (alreadyExpanded) {
+      grid.classList.remove("dimmed");
+    } else {
+      card.classList.add("expanded");
+      grid.classList.add("dimmed");
     }
+  });
 });
