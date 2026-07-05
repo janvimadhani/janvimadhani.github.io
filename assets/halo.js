@@ -1,72 +1,93 @@
 console.log("halo.js loaded");
 
-const cards = document.querySelectorAll(".halo-card");
-const grid = document.querySelector(".halo-grid");
+/* ---------------------------
+   HALO CARDS
+---------------------------- */
 
-console.log("Found", cards.length, "cards");
+const haloCards = document.querySelectorAll(".halo-card");
+const haloGrid = document.querySelector(".halo-grid");
 
-function clearExpanded() {
-    cards.forEach(c => c.classList.remove("expanded"));
-    grid?.classList.remove("dimmed");
+console.log("Found", haloCards.length, "halo cards");
+
+function clearHaloExpanded() {
+  haloCards.forEach((card) => card.classList.remove("expanded"));
+  haloGrid?.classList.remove("dimmed");
 }
 
-cards.forEach((card, i) => {
+haloCards.forEach((card) => {
   card.addEventListener("click", (e) => {
     e.preventDefault();
     e.stopPropagation();
 
     const wasExpanded = card.classList.contains("expanded");
 
-    clearExpanded();
+    clearHaloExpanded();
 
     if (!wasExpanded) {
       card.classList.add("expanded");
-      if (grid) grid.classList.add("dimmed");
+      haloGrid?.classList.add("dimmed");
     }
 
-    document.addEventListener("click", (e) => {
-        if (!e.target.closest(".halo-card")) {
-            clearExpanded();
-        }
-    });
-
-    document.addEventListener("keydown", (e) => {
-    if (e.key === "Escape") {
-        clearExpanded();
-    }
-});
-
-    console.log("expanded?", card.classList.contains("expanded"));
+    console.log("halo expanded?", card.classList.contains("expanded"));
   });
 });
 
+/* ---------------------------
+   SCENARIO CARDS
+---------------------------- */
 
+const scenarioCards = document.querySelectorAll(".scenario-card");
 
-document.querySelectorAll(".scenario-card").forEach((card) => {
-  card.addEventListener("click", () => {
+function clearScenarioExpanded(grid) {
+  grid.classList.remove("dimmed");
+  grid.querySelectorAll(".scenario-card").forEach((card) => {
+    card.classList.remove("expanded");
+  });
+}
+
+scenarioCards.forEach((card) => {
+  card.addEventListener("click", (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+
     const grid = card.closest(".scenario-grid");
-    const alreadyExpanded = card.classList.contains("expanded");
+    const wasExpanded = card.classList.contains("expanded");
 
-    grid.querySelectorAll(".scenario-card").forEach((c) => {
-      c.classList.remove("expanded");
-    });
+    clearScenarioExpanded(grid);
 
-    if (alreadyExpanded) {
-      grid.classList.remove("dimmed");
-    } else {
+    if (!wasExpanded) {
       card.classList.add("expanded");
       grid.classList.add("dimmed");
     }
   });
 });
 
-document.addEventListener("click", (e) => {
-  const openGrid = document.querySelector(".scenario-grid.dimmed");
+/* ---------------------------
+   CLICK OUTSIDE TO CLOSE
+---------------------------- */
 
-  if (openGrid && !e.target.closest(".scenario-card")) {
-    openGrid.classList.remove("dimmed");
-    openGrid.querySelectorAll(".scenario-card").forEach((card) => {
-      card.classList.remove("expanded");
+document.addEventListener("click", (e) => {
+  if (haloGrid && !e.target.closest(".halo-card")) {
+    clearHaloExpanded();
+  }
+
+  document.querySelectorAll(".scenario-grid.dimmed").forEach((grid) => {
+    if (!grid.contains(e.target)) {
+      clearScenarioExpanded(grid);
+    }
+  });
+});
+
+/* ---------------------------
+   ESC TO CLOSE
+---------------------------- */
+
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape") {
+    clearHaloExpanded();
+
+    document.querySelectorAll(".scenario-grid.dimmed").forEach((grid) => {
+      clearScenarioExpanded(grid);
     });
   }
 });
