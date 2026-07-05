@@ -39,3 +39,23 @@ cards.forEach((card, i) => {
     console.log("expanded?", card.classList.contains("expanded"));
   });
 });
+
+
+
+document.querySelectorAll(".scenario-card").forEach((card) => {
+  card.addEventListener("click", () => {
+    const grid = card.closest(".scenario-grid");
+    const alreadyExpanded = card.classList.contains("expanded");
+
+    grid.querySelectorAll(".scenario-card").forEach((c) => {
+      c.classList.remove("expanded");
+    });
+
+    if (alreadyExpanded) {
+      grid.classList.remove("dimmed");
+    } else {
+      card.classList.add("expanded");
+      grid.classList.add("dimmed");
+    }
+  });
+});
