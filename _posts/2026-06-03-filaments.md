@@ -63,10 +63,6 @@ Here I zoom in around each of the yellow circles above to show the gas density s
                     <td>16</td>
                 </tr>
 
-                <tr>
-                    <td>Environment</td>
-                    <td>Galaxy merger</td>
-                </tr>
             </table>
 
         </div>
@@ -153,11 +149,6 @@ Here I zoom in around each of the yellow circles above to show the gas density s
                     <td>17</td>
                 </tr>
 
-                <tr>
-                    <td>Environment</td>
-                    <td>Galaxy merger and possible twister</td>
-                </tr>
-
             </table>
 
         </div>
@@ -184,10 +175,6 @@ Here I zoom in around each of the yellow circles above to show the gas density s
                     <td>104</td>
                 </tr>
 
-                <tr>
-                    <td>Environment</td>
-                    <td>Multiple edge-on filament zippers</td>
-                </tr>
 
             </table>
 
@@ -217,7 +204,7 @@ Here I zoom in around each of the yellow circles above to show the gas density s
 
                 <tr>
                     <td>Environment</td>
-                    <td>Galaxy merger</td>
+                    <td>Filament twister</td>
                 </tr>
 
             </table>
@@ -244,10 +231,6 @@ Here I zoom in around each of the yellow circles above to show the gas density s
                 <tr>
                     <td><i>N</i><sub>sat</sub></td>
                     <td>21</td>
-                </tr>
-                <tr>
-                    <td>Environment</td>
-                    <td>Galaxy merger</td>
                 </tr>
             </table>
 
@@ -337,10 +320,6 @@ Here I zoom in around each of the yellow circles above to show the gas density s
                     <td>17</td>
                 </tr>
     
-                <tr>
-                    <td>Environment</td>
-                    <td>Filament twister</td>
-                </tr>
             </table>
 
         </div>
@@ -397,10 +376,6 @@ Here I zoom in around each of the yellow circles above to show the gas density s
                     <td>14</td>
                 </tr>
     
-                <tr>
-                    <td>Environment</td>
-                    <td>Galaxy merger</td>
-                </tr>
             </table>
 
         </div>
