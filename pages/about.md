@@ -18,7 +18,7 @@ My PhD research focused on the evolving gaseous cosmic web, the vast network of 
 
 In particular, my work traces how coherent gas flows, vortical motions, and the evolution and merging of cosmic filaments give rise to anisotropic distributions of satellite galaxies. These results provide a physically motivated explanation for the long-standing “planes of satellites” tension with the standard ΛCDM cosmological model, showing that seemingly anomalous satellite configurations can emerge naturally from the larger gaseous environments in which galaxies assemble.
 
-More broadly, I’m interested in using computation to uncover the physical connections between phenomena operating across enormous differences in scale—from the dynamics of individual dwarf galaxies to the evolution of the cosmic web.
+More broadly, I’m interested in using computation to uncover the physical connections between phenomena operating across enormous scales, from the dynamics of individual dwarf galaxies to the evolution of the cosmic web.
 
 
 ## Towards a new world...
